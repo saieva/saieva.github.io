@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Resolving Data Connection Problems on an iPhone 4S in Spain"
 date:   2013-04-27 00:00:01 -0400
 categories: Mobile
 ---
