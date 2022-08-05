@@ -22,12 +22,13 @@ several ways, comments by Jony Ive on his motivations for design are deeply thou
 > And sometimes it’s easier to realize you sense carelessness. And I think we’re surrounded,
 > our manufactured environment, so much of it you know, testifies to a complete lack of care.
 > Which isn’t, you know, that’s not about your attitude toward an object, **it’s about your attitude to each other**.
+>
 > And so I think that sort of commitment and passion become fanaticism of just really caring to
 > get something right whether you’re going to see it or not. But we **do that for each other**.” *- Jony Ive, Apple, Inc.*
 
 That is exactly the perspective that makes Jony Ive, and Apple, great.
 The quote comes at approximately 16:50 in the video interview.
 
-![2013 Henning Koppel “Pregnant” Duck Pitcher](/images/013-henning-koppel-22pregnant-duck22-red-pitcher.jpg)
+![2013 Henning Koppel Pregnant Duck Pitcher](/images/2013-henning-koppel-22pregnant-duck22-red-pitcher.jpg)
 
 [CharlieRoseYouTubeVideoURL]: https://www.charlierose.com/videos/17469
