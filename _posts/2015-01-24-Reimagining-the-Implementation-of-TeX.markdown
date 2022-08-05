@@ -5,7 +5,7 @@ date:   2015-01-24 06:00:00 -0400
 categories: Programming
 ---
 Glenn Vanderburg, Engineering Director for Architecture at LivingSocial
-([@glv][GLVTwitterURL]; [http://vanderburg.org][GLVWebsiteURL]), has a personal project underway to
+([@glv][GLVTwitterURL]; [https://vanderburg.org][GLVWebsiteURL]), has a personal project underway to
 implement TeX’s algorithms in the Clojure programming language. His work was recently described in an
 article [published on InfoQ][InfoQArticleURL]. Glenn also presented his work at the Clojure/conj
 conference last year in 2014, his excellent talk is [posted on YouTube][ClojureTVVideoURL].
@@ -31,12 +31,12 @@ typesetting algorithms creating beautiful page layouts and more natural reading 
 - [The Art of Computer Programming][TheArtOfComputerProgrammingURL] by Donald E. Knuth
 
 [GLVTwitterURL]: https://twitter.com/glv
-[GLVWebSiteURL]: http://vanderburg.org/
-[InfoQArticleURL]: http://www.infoq.com/news/2015/01/implementing-tex-in-clojure
+[GLVWebSiteURL]: https://vanderburg.org/
+[InfoQArticleURL]: https://www.infoq.com/news/2015/01/implementing-tex-in-clojure
 [ClojureTVVideoURL]: https://www.youtube.com/watch?v=824yVKUPFjU
-[ClojureWebsiteURL]: http://clojure.org/
+[ClojureWebsiteURL]: https://clojure.org/
 [LiterateProgrammingURL]: http://www.literateprogramming.com/knuthweb.pdf
 [CommentaryOnUnixURL]: http://www.lemis.com/grog/Documentation/Lions/
-[ComputersAndTypesettingURL]: http://www.amazon.com/Computers-Typesetting-Volumes-A-E-Boxed/dp/0201734168
-[TheArtOfComputerProgrammingURL]: http://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043
+[ComputersAndTypesettingURL]: https://www.amazon.com/Computers-Typesetting-Volumes-A-E-Boxed/dp/0201734168
+[TheArtOfComputerProgrammingURL]: https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043
 
