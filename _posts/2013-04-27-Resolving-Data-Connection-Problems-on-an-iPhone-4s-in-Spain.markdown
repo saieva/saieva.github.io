@@ -15,7 +15,7 @@ access was not working (for example, no email access and no Web browsing) and SM
 with attachments (such as photos) was not working.
 
 To fix the problem I tried to change carriers (by turning Automatic off from the iPhone’s
-Settings->Carrier menu) but no other carriers appeared in the list; the phone was searching
+Settings, Carrier menu) but no other carriers appeared in the list; the phone was searching
 for carriers but only Orange appeared. Ultimately I left the phone searching for carriers
 for several minutes (maybe as long as 3-4 minutes) and several other networks were found.
 Selecting “vodaphone ES” and the data services on the phone started working reliably.
