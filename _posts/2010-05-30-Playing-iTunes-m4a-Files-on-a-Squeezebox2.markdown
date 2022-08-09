@@ -26,7 +26,7 @@ Slim::Utils::Misc::findbin (111) Checking for lame in /usr/bin/lame
 Slim::Utils::Misc::findbin (111) Checking for lame in /usr/local/bin/lame
 Slim::Utils::Misc::findbin (111) Checking for lame in /usr/libexec/lame
 Slim::Utils::Misc::findbin (111) Checking for lame in /usr/sbin/lame
-**Slim::Utils::Misc::findbin (130) Didn’t find binary for lame**
+Slim::Utils::Misc::findbin (130) Didn’t find binary for lame
 Slim::Player::TranscodingHelper::checkBin (265)    couldn’t find binary for: lame
 Slim::Player::TranscodingHelper::getConvertCommand2 (421) Error: Didn’t find any command matches for type: mp4
 ```
