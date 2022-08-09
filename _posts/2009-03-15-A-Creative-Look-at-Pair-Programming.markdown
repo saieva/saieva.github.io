@@ -32,7 +32,7 @@ when there is only one person involved. That scenario is so contradictory to the
 creative writing, it is so out-of-the-box and unexpected, that I frankly find it brilliant.
 
 here is also a creative process that occurs in software development and programming. I’ve always related
-to the description that Fred Brooks gives of the software development process in his book The Mythical Man-Month.
+to the description that Fred Brooks gives of the software development process in his book *The Mythical Man-Month*.
 Brooks, referring to the book The Mind of the Maker by Dorothy Sayers who identifies creativity with three stages,
 the idea, the implementation, and the interaction, says:
 
@@ -51,7 +51,7 @@ thoughts (or ideas, concepts) of a single individual.
 
 Several years ago, and together with a close colleague, we implemented the eXtreme Programming (XP)
 software development methodology at aluminium.com. The methodology was popularized by its author, Kent Beck,
-in the book eXtreme Programming Explained: Embrace Change. The premise behind XP is to take all the things
+in the book *eXtreme Programming Explained: Embrace Change*. The premise behind XP is to take all the things
 that people generally consider to be good for creating quality software and to do those things to the extreme.
 For example, everyone generally considers testing to be directly related to quality; the more you can test a
 program the fewer errors it is likely to have. So in XP testing is done to the extreme by writing the tests
