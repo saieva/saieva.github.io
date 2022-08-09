@@ -2,7 +2,7 @@
 layout: post
 title:  "Playing iTunes .m4a Files on a Squeezebox2"
 date:   2010-05-30 06:00:00 -0400
-categories: Management
+categories: Audiophile
 ---
 I encountered a problem playing iTunes .m4a files on [Squeezebox2][Squeezebox2WikiURL] devices. It was interesting that
 from the same Squeezebox Server the files played fine on a [Squeezebox3][Squeezebox3WikiURL], but when attempting to play
