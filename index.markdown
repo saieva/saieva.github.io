@@ -4,6 +4,3 @@
 
 layout: home
 ---
-Welcome to My Homepage!
-
-![LinkedIn](images/LI-In-Bug.png) ![Twitter](images/Twittersocialicons-roundedsquare-blue.png)
