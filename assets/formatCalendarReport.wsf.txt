@@ -1,0 +1,252 @@
+'
+' Formats an Calendar reminder report for a specified Outlook calendar.
+'
+' For additional information on the operation of this script, please visit
+' http://saieva.wordpress.com/.
+'
+' Requirements:
+'    o Outlook Redemption v4.6 downloaded www.dimastr.com. Follow the readme.txt file
+'      in the Redemption .zip file download to install the product.
+'
+<job id="formatCalendarReport.wsf">
+   <runtime>
+      <description>
+Prints a report of events in an Outlook calendar for a period of time.
+      </description>
+      <named
+         name = "calendar"
+         helpstring = "pathname of the Outlook Calendar"
+         type = "string"
+         required = True
+      />
+      <named
+         name = "numdays"
+         helpstring = "number of days to process in the report"
+         type = "string"
+         required = False
+      />
+      <named
+         name = "emptyevents"
+         helpstring = "include dates without events, default emptyevents+"
+         type = "boolean"
+         required = False
+      />
+      <named
+         name = "emptybody"
+         helpstring = "include empty body fields, default emptybody+"
+         type = "boolean"
+         required = False
+      />
+      <example>
+Example:
+
+   formatCalendarReport.wsf /calendar:"Personal Folders/Calendar"
+      /numdays:14 /emptyevents+ /emptybody+ </example>
+   </runtime>
+<script language="vbscript">
+
+'
+' Variable definitions.
+'
+dim DaysToProcess, DefaultDaysToProcess, CalendarPathname
+dim IncludeEmptyEvents, IncludeEmptyBody
+
+'
+' Define default values.
+'
+DefaultDaysToProcess = 14
+IncludeEmptyEvents = True
+IncludeEmptyBody = True
+
+CalendarPathname = processCommandLineArgument("calendar")
+IncludeEmptyEvents = processCommandLineArgument("emptyevents")
+IncludeEmptyBody = processCommandLineArgument("emptybody")
+
+DaysToProcess = processCommandLineArgument("numdays")
+
+if (DaysToProcess = "") then
+   DaysToProcess = DefaultDaysToProcess
+end if
+
+'
+' Run the report.
+'
+formatCalendarReport CalendarPathname, DaysToProcess, IncludeEmptyEvents, IncludeEmptyBody
+
+'
+' Creates and Outlook appliation object to produce a text formatted calendar report.
+'
+sub formatCalendarReport(folderPathname, daysToProcess, includeEmptyEvents, includeEmptyBody)
+
+   dim numDays, startingDate, endingDate, currentDate, endDateOffset
+   dim outlookApp, outlookNamespace, appointItems, calendarAppointment, calendarDayItems, safeAppointment
+   dim folderNameArray, currentFolder, folderIndex, bodyText
+
+   set outlookApp =  CreateObject("Outlook.Application")
+   set outlookNamespace = outlookApp.GetNamespace("MAPI")
+   outlookNamespace.logon , , True, False
+
+   '
+   ' The Outlook object model does not provide a method for referring to an Outlook folder by its
+   ' entire pathname. Folders in a hierarchy must be accessed separately (and sequentially) by
+   ' parsing each folder's name from the path.
+   '
+   folderNameArray = split(replace(folderPathname, "\", "/"), "/")
+
+   on error resume next
+
+   folderIndex = 0
+   set currentFolder = outlookNamespace.Folders(folderNameArray(folderIndex))
+   exitOnFolderErrors err.number, folderNameArray, folderIndex
+
+   for folderIndex = 1 to ubound(folderNameArray)
+      set currentFolder = currentFolder.Folders(folderNameArray(folderIndex))
+      exitOnFolderErrors err.number, folderNameArray, folderIndex
+   next
+
+   on error goto 0
+
+   set appointItems = currentFolder.Items
+   set currentFolder = Nothing
+
+   appointItems.IncludeRecurrences = True
+
+   numDays = daysToProcess - 1
+   startingDate = FormatDateTime(Date, vbGeneralDate)   ' Start report from today
+   endingDate = DateAdd("d", numDays, startingDate)
+
+   currentDate = startingDate
+
+   wscript.echo(vbCrLf & "This is " & wscript.scriptname & " running on " & Now() & "..." & vbCrLf)
+   wscript.echo("     Calendar: " & folderPathname & "...")
+   wscript.echo("Report period: " & startingDate & " through " & endingDate & " (" & daysToProcess & " days)...")
+
+   Do
+      restrictString = "[END] > " & quoteString(currentDate & " 12:00 AM") & " AND [START] <= " & quoteString(currentDate & " 11:59 PM")
+      Set calendarDayItems = appointItems.Restrict(restrictString)
+      calendarDayItems.Sort "[Start]"
+
+      If calendarDayItems.Count <> 0 Then
+
+         wscript.echo(vbCrLf & WeekdayName(Weekday(currentDate)) & ", " & currentDate & ":")
+         wscript.echo(vbTab & "+-------------------------------------------------------------+")
+
+         For Each calendarAppointment In calendarDayItems
+
+	    bodyText = ""
+            endDateOffset = 0
+            If calendarAppointment.AllDayEvent Then
+               endDateOffset = -1
+            End If
+
+            set safeAppointment = CreateObject("Redemption.SafeAppointmentItem")
+            safeAppointment.Item = calendarAppointment
+
+            wscript.echo(vbTab & " Subject: " & safeAppointment.Subject)
+	    bodyText = replace(safeAppointment.Body, vbCrLf, " ")
+
+            if (bodyText <> " " or includeEmptyBody) then
+               wscript.echo(vbTab & "    Body: " & bodyText)
+            end if
+
+            wscript.echo(vbTab & "    From: " & safeAppointment.Start & "   To: " & DateAdd("d", endDateOffset, safeAppointment.End))
+            wscript.echo(vbTab & "+-------------------------------------------------------------+")
+
+            set safeAppointment = Nothing
+         Next
+      Elseif (includeEmptyEvents) then
+         wscript.echo(vbCrLf & WeekdayName(Weekday(currentDate)) & ", " & currentDate & ":")
+         wscript.echo(vbTab & "+-------------------------------------------------------------+")
+         wscript.echo(vbTab & " No calendar events for today.")
+         wscript.echo(vbTab & "+-------------------------------------------------------------+")
+      End If
+
+      currentDate = DateAdd("d", 1, currentDate)
+
+   Loop Until currentDate > endingDate
+
+   wscript.echo(vbCrLf & "This is " & wscript.scriptname & " " & Now() & "..." & vbCrLf)
+
+end sub
+
+
+'
+' Processes command line arguments passed into main .wsf file.
+'
+function processCommandLineArgument(arg)
+
+dim argValue
+
+   select case arg
+
+      case "numdays"
+         if (WScript.Arguments.Named.Exists(arg)) then
+            argValue = WScript.Arguments.Named.Item(arg)
+	    if not isnumeric(argValue) then
+               WScript.Arguments.ShowUsage()
+               wscript.echo(vbCrLf & "error: please supply a valid number for the /numdays parameter...")
+               wscript.quit
+            end if
+         else
+            argValue = DefaultDaysToProcess
+         end if
+
+      case "calendar"
+         if (WScript.Arguments.Named.Exists(arg)) then
+            argValue = WScript.Arguments.Named.Item(arg)
+         end if
+
+      case "emptyevents"
+         if (WScript.Arguments.Named.Exists(arg)) then
+            argValue = WScript.Arguments.Named.Item(arg)
+            ArgValue = lcase(argValue)
+            if (argValue = "on" or argValue = "true") then
+               argValue = True
+            else
+               argValue = False
+            end if
+         else
+            argValue = True
+         end if
+
+      case "emptybody"
+         if (WScript.Arguments.Named.Exists(arg)) then
+            argValue = WScript.Arguments.Named.Item(arg)
+            ArgValue = lcase(argValue)
+            if (argValue = "on" or argValue = "true") then
+               argValue = True
+            else
+               argValue = False
+            end if
+         else
+            argValue = True
+         end if
+
+      case else
+         WScript.Arguments.ShowUsage()
+         WScript.echo(vbCrLf & "invalid option: " & arg)
+         WScript.Quit()
+
+   end select
+
+   processCommandLineArgument = argValue
+
+end function
+
+sub exitOnFolderErrors(errorNumber, folderArray, subFolderIndex)
+
+   if (errorNumber <> 0) then
+      wscript.echo(vbCrLf & "can't find folder " & quoteString(join(folderArray, "\")) & "...")
+      wscript.echo("check the name or perms on the " & quoteString(folderArray(subFolderIndex)) & " subfolder." & vbCrLf)
+      wscript.quit
+   end if
+end sub
+
+'
+' Returns a string surrounded by double-quote (") characters.
+'
+function quoteString(textString)
+    quoteString = Chr(34) & textString & Chr(34)
+end function
+
+</script></job>
