@@ -9,8 +9,8 @@ which people interpret to mean fast (in the sense of being quick and doing thing
 a thorough way). Of course that is an incorrect interpretation. Agile methods are not intended
 to be fast, if anything Agile teaches us to be iterative, repetitive, and to break down larger
 problems into smaller pieces that can be more easily understood, completed with higher quality,
-and delivered on an expected schedule. From that perspective, Agile teaches us to be ***frequent***
+and delivered on an expected schedule. From that perspective, Agile teaches us to be *frequent*
 in the way we approach our work.
 
-So ***frequent*** may in fact be another principle of Agile Development. As a principle it doesn’t
+So frequent may in fact be another principle of Agile Development. As a principle it doesn’t
 only have to apply to software development work. We can apply Frequent methods to other disciplines too.
