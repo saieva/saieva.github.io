@@ -4,7 +4,6 @@
 
 layout: home
 ---
-## Welcome to my home page!
+Welcome to My Homepage!
 
-This is the Agile. Technology. Management. homepage. Thanks for visiting. Here you'll find
-information about me and my writing and social links.
+![LinkedIn](images/LI-In-Bug.png) ![Twitter](images/Twittersocialicons-roundedsquare-blue.png)
