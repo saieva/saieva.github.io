@@ -67,12 +67,13 @@ recreate the report in a script.
 
 **A Script to Format Outlook Calendars**
 
-*formatCalendarReport.wsf* is a Windows Scripting Host (WSH) application that uses the VBScript
-programming language to access Exchange Public Folders and print calendar events in a format similar
-to the listing above. The script can be run from the Windows CMD prompt using the WSH cscript command.
-If you’re using a current Service Pack version of Windows XP you should find that WSH and the cscript
-command are already installed on your system, so download the script to your computer and try to
-produce usage instructions by running it with the /? parameter as follows:
+[formatCalendarReport.wsf](/assets/formatCalendarReport.wsf.txt) is a Windows Scripting Host (WSH)
+application that uses the VBScript programming language to access Exchange Public Folders and print
+calendar events in a format similar to the listing above. The script can be run from the Windows CMD
+prompt using the WSH cscript command. If you’re using a current Service Pack version of Windows XP
+you should find that WSH and the cscript command are already installed on your system, so download
+the script to your computer and try to produce usage instructions by running it with the /? parameter
+as follows:
 
 ```
 C:\>cscript /nologo formatCalendarReport.wsf /?
@@ -178,9 +179,9 @@ in the Exchange Public Folders list might be accessed like this:
 /calendar:"Public Folders\All Public Folders\Vacations"
 ```
 
-The *formatCalendarReport.wsf* script starts from the current date and (by default) creates a report
-for the next 14 days. In the example above, the /numdays option is used to create a shorter report
-for seven days (starting from today’s date).
+The [formatCalendarReport.wsf](/assets/formatCalendarReport.wsf.txt) script starts from the current date
+and (by default) creates a report for the next 14 days. In the example above, the /numdays option
+is used to create a shorter report for seven days (starting from today’s date).
 
 If a day in the calendar doesn’t have any scheduled events, a line item is added to the report that
 reads “No calendar events for today.” To exclude dates without events, use the /emptyevents- parameter.
@@ -214,9 +215,9 @@ A .txt filetype has been added to the name of the script to avoid problems with 
 firewalls when you download the file. Be sure to remove the .txt extension after the download completes
 so you won’t have a problem running it on your computer.
 
-*formatCalendarReport.wsf* will format a calendar into a text listing but it doesn’t email the report.
-A follow-up post will demonstrate how a separate Windows tool can be used to email the completed report
-to a list of addresses.
+[formatCalendarReport.wsf](/assets/formatCalendarReport.wsf.txt) will format a calendar into a text
+listing but it doesn’t email the report. A follow-up post will demonstrate how a separate Windows
+tool can be used to email the completed report to a list of addresses.
 
 Please note that the script was only tested on a Windows XP system running Service Pack 3.
 
