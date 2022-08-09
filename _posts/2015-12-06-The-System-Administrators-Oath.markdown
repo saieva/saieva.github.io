@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The System Administrator's Oath"
+title:  "The [System Administrator's] Oath"
 date:   2015-12-06 00:00:01 -0400
-categories: CleanCode
+categories: CleanCode Programming
 ---
 Bob Martin (author of Clean Code, The Clean Coder, and evangelist of software craftsmanship) recently
 posted [The Programmer’s Oath][ProgrammersOathURL]. Let’s say we have jobs as System Engineer’s or
