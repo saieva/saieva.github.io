@@ -19,6 +19,7 @@ Sal.<br>
 August 2010
 
 ---
+<br/>
 
 **Chapter Takedowns**
 
