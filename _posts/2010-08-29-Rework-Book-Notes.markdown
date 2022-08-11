@@ -16,58 +16,36 @@ My Amazon.com review of Rework is located here: [https://amzn.to/cmhtri][ReworkA
 Note, page number references in the book are surrounded by []’s.
 
 Sal.
----
 August 2010
 
 **Chapter Takedowns**
 
-The real world isn’t a place, it’s an excuse. It’s a justification for not trying. It has nothing to do with you. [14]
-
-What do you really learn from mistakes? You might learn what not to do again, but how valuable is that? You still don’t know what you should do next. [16]
-
-Failure is not a prerequisite for success. [17]
-
-Success is the experience that actually counts. [17]
-
-Writing a plan makes you feel in control of things you can’t actually control. [19]
-
-Why don’t we just call plans what they really are: guesses. [19]
-
-Plans are inconsistent with improvisation. [19]
-
-Plans more than a few pages long just wind up as fossils in your file cabinet. [20]
-
-Working without a plan may seem scary. But blindly following a plan that has no relationship with reality is even scarier. [20]
-
-Small is not just a stepping-stone. Small is a great destination in itself. [23]
-
-Don’t be insecure about aiming to be a small business. [23]
-
-Workaholics aren’t heroes. They don’t save the day, they just use it up. [26]
+- The real world isn’t a place, it’s an excuse. It’s a justification for not trying. It has nothing to do with you. [14]
+- What do you really learn from mistakes? You might learn what not to do again, but how valuable is that? You still don’t know what you should do next. [16]
+- Failure is not a prerequisite for success. [17]
+- Success is the experience that actually counts. [17]
+- Writing a plan makes you feel in control of things you can’t actually control. [19]
+- Why don’t we just call plans what they really are: guesses. [19]
+- Plans are inconsistent with improvisation. [19]
+- Plans more than a few pages long just wind up as fossils in your file cabinet. [20]
+- Working without a plan may seem scary. But blindly following a plan that has no relationship with reality is even scarier. [20]
+- Small is not just a stepping-stone. Small is a great destination in itself. [23]
+- Don’t be insecure about aiming to be a small business. [23]
+- Workaholics aren’t heroes. They don’t save the day, they just use it up. [26]
 
 **Chapter Go**
 
-To do great work, you need to feel that you’re making a difference. That you’re putting a meaningful dent in the universe. [31]
-
-If you’re going to do something, do something that matters. [32]
-
-Ideas are cheap and plentiful. [38]
-
-The real question is how well you execute. [38]
-
-But we’re just as proud of what our products don’t do as we are of what they do. [43]
-
-There’s a world of difference between truly standing for something and having a mission statement that says you stand for something. [47]
-
-Standing for something isn’t just about writing it down. It’s about believing it and living it. [48]
-
-A business without a path to profit isn’t a business, it’s a hobby. [56]
-
-Act like an actual business and you’ll have a much better shot at succeeding. [57]
-
-You need a commitment strategy, not an exit strategy. [59]
-
-Embrace the idea of having less mass. [62]
+- To do great work, you need to feel that you’re making a difference. That you’re putting a meaningful dent in the universe. [31]
+- If you’re going to do something, do something that matters. [32]
+- Ideas are cheap and plentiful. [38]
+- The real question is how well you execute. [38]
+- But we’re just as proud of what our products don’t do as we are of what they do. [43]
+- There’s a world of difference between truly standing for something and having a mission statement that says you stand for something. [47]
+- Standing for something isn’t just about writing it down. It’s about believing it and living it. [48]
+- A business without a path to profit isn’t a business, it’s a hobby. [56]
+- Act like an actual business and you’ll have a much better shot at succeeding. [57]
+- You need a commitment strategy, not an exit strategy. [59]
+- Embrace the idea of having less mass. [62]
 
 **Chapter Progress**
 
@@ -111,7 +89,6 @@ Interruptions break your workday into a series of work moments. [104]
 Your day is under siege by interruptions. It’s on you to fight back. [106]
 
 If you decide you must get together, try to make your meeting a productive one by sticking to these simple rules: [109]
-
 - Set a timer. When it rings, meeting’s over. Period. [109]
 - Invite as few people as possible. [109]
 - Always have a clear agenda. [109]
@@ -203,11 +180,11 @@ No one should be shielded from direct criticism. [242]
 
 **Chapter Culture**
 
-(Note, page 249 is my favorite from the book. The text below is copied verbatim. Sal.)
+*(Note, page 249 is my favorite from the book. The text below is copied verbatim. Sal.)*
 
 > You don’t create a culture
 >
-Instant cultures are artificial cultures. They’re big bangs made of mission statements,
+> Instant cultures are artificial cultures. They’re big bangs made of mission statements,
 > declarations, and rules. They are obvious, ugly, and plastic. Artificial culture is paint.
 > Real culture is patina.
 >
