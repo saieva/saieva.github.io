@@ -24,7 +24,8 @@ August 2010
 **Chapter Takedowns**
 
 - The real world isn’t a place, it’s an excuse. It’s a justification for not trying. It has nothing to do with you. [14]
-- What do you really learn from mistakes? You might learn what not to do again, but how valuable is that? You still don’t know what you should do next. [16]
+- What do you really learn from mistakes? You might learn what not to do again, but how valuable is that? You still
+don’t know what you should do next. [16]
 - Failure is not a prerequisite for success. [17]
 - Success is the experience that actually counts. [17]
 - Writing a plan makes you feel in control of things you can’t actually control. [19]
