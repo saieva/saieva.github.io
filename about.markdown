@@ -11,9 +11,18 @@ a large global insurance company.
 I am the developer of MettleCVE, a vulnerability lookup tool for iPhone that's available for download from the
 [Apple App Store][MettleCVEAppURL].
 
-I am a Mentor with NYU's Tandon School of Engineering [Management of Technology Graduate Degree Program][NYUMoTURL].
+I am a active Mentor in [NYU's Tandon School of Engineering Management of Technology Graduate Degree Program][NYUMoTURL].
 
-My professional bio is here on [LinkedIn][SaievaLinkedInURL].
+I work independently and I am available to join your project as a Technical Advisor or Software Consultant.
+I am reasonably current in several programming languages and infrastucture automation technologies and I can complement
+a team as an individual contributor when required.
+
+I am experienced in training dozens of teams and managing hundreds of projects using Agile methodologies such as
+Scrum, Extreme Programming, and Lean. I can fill an interim leadership role for your most important application and
+IT initiatives as a CIO or CTO.
+
+If you're looking for someone to bring simplicity, repeatable predictability, and long-term regularity to your most
+difficult technology initiatives, contact me on [LinkedIn][SaievaLinkedInURL].
 
 Regards,
 
