@@ -21,7 +21,7 @@ I am experienced in training dozens of teams and managing hundreds of projects u
 Scrum, Extreme Programming, and Lean. I can fill an interim leadership role for your most important application and
 IT initiatives as a CIO or CTO.
 
-If you're looking for someone to bring simplicity, repeatable predictability, and long-term regularity to your most
+If you're looking for someone to bring simplicity, predictability, and long-term regularity to your most
 difficult technology initiatives, contact me on [LinkedIn][SaievaLinkedInURL].
 
 Regards,
