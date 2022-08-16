@@ -6,7 +6,7 @@ permalink: /about/
 
 Greetings. I am a Technology Manager in the NY / NJ / CT areas. My career experience is in financial services and
 healthcare leading IT Groups, Application Development teams, and managing technology initiatives for hedge funds,
-banks, a large global insurance company, and clinics specializing in regenerative medicine.
+banks, a large global insurance company, and clinics specializing in orthobiologic treatments and regenerative medicine.
 
 I am the developer of MettleCVE, a vulnerability lookup tool for iPhone that's available for download from the
 [Apple App Store][MettleCVEAppURL].
