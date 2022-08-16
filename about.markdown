@@ -30,6 +30,8 @@ Sal.<br>
 —--<br>
 Salvatore Saieva
 
+![Greetings from Sal Saieva...](/images/Greetingsv12.png "Greetings from Sal Saieva...")
+
 [SaievaLinkedInURL]: https://www.LinkedIn.com/in/Saieva
 [MettleCVEAppURL]: https://apps.apple.com/us/app/mettlecve/id1555613958
 [NYUMoTURL]: https://engineering.nyu.edu/academics/programs/management-technology-ms
