@@ -6,12 +6,13 @@ permalink: /about/
 
 Greetings. I am a Technology Manager in the NY / NJ / CT areas. My career experience is in financial services and
 healthcare leading IT Groups, Application Development teams, and managing technology initiatives for hedge funds,
-banks, a global Fortune 100 insurance company, and clinics specializing in orthobiologic treatments and regenerative medicine.
+banks, a global insurance company, and clinics specializing in orthobiologic treatments and regenerative medicine.
+I've established digital capabilities for multiple startup businesses and I've been a Divisional CTO for a
+Fortune 100 company.
 
-I am the developer of MettleCVE, a vulnerability lookup tool for iPhone that's available for download from the
-[Apple App Store][MettleCVEAppURL].
+I am the developer of MettleCVE, a vulnerability lookup tool for iPhone that's available on [The Apple App Store][MettleCVEAppURL].
 
-I am a active Mentor in [NYU's Tandon School of Engineering Management of Technology Graduate Degree Program][NYUMoTURL].
+I am an active Mentor in [NYU's Tandon School of Engineering Management of Technology Graduate Degree Program][NYUMoTURL].
 
 I work independently and I am available to join your enterprise or startup project as a Technical Advisor or Software Consultant.
 I can fill an interim leadership role for your most important application and IT initiatives as CIO or CTO.
