@@ -30,7 +30,7 @@ Sal.<br>
 —--<br>
 Salvatore Saieva
 
-![Greetings from Sal Saieva...](/images/Greetingsv12.png "Greetings from Sal Saieva...")
+![Greetings from Sal Saieva...](/images/Greetingsv13-1320x1035.png "Greetings from Sal Saieva...")
 
 [SaievaLinkedInURL]: https://www.LinkedIn.com/in/Saieva
 [MettleCVEAppURL]: https://apps.apple.com/us/app/mettlecve/id1555613958
