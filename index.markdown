@@ -8,14 +8,19 @@ layout: home
 [<img src="/images/Twittersocialicons-roundedsquare-blue.png" title="Goto @saieva on Twitter" height="13%" width="13%" style="padding-right:17px">](https://www.Twitter.com/saieva)
 [<img src="/images/MettleCVE-150x150px.png" title="Goto WebMettle Systems on LinkedIn" height="15%" width="15%">](https://www.LinkedIn.com/company/WebMettle/posts/?feedView=images)
 
---- <br>
+---
+
+<br>
+
 This is Saieva.com, the personal Website of Sal Saieva. You can find my career history on [LinkedIn][SalSaievaLinkedInURL] and
 how I can help your startup or enterprise project on the [About page][SalSaievaAboutURL].
 
 I created [MettleCVE][MettleCVEAppURL], a vulnerability lookup tool for iPhone, to help Security Remediation teams fix cybersecurity
 issues faster. You can see a quick 35-second demo of the app [here on YouTube][MettleCVEYouTubeDemoURL].
 
---- <br>
+---
+
+<br>
 
 > A baseball manager recognizes a nonphysical talent, hustle, as an essential gift of great players and great teams.
 > It is the characteristic of running faster than necessary, moving sooner than necessary, trying harder than necessary.
