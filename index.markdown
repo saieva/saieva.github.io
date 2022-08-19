@@ -12,7 +12,7 @@ layout: home
 
 <br>
 
-This is Saieva.com, the personal Website of Sal Saieva. You can find my career history on [LinkedIn][SalSaievaLinkedInURL] and
+This is Saieva.com, the personal Website of Sal Saieva. You can find my career background on [LinkedIn][SalSaievaLinkedInURL] and
 how I can help your startup or enterprise project on the [About page][SalSaievaAboutURL].
 
 I created [MettleCVE][MettleCVEAppURL], a vulnerability lookup tool for iPhone, to help Security Remediation teams fix cybersecurity
