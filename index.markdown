@@ -9,7 +9,7 @@ layout: home
 [<img src="/images/MettleCVE-150x150px.png" title="Goto WebMettle Systems on LinkedIn" height="15%" width="15%">](https://www.LinkedIn.com/company/WebMettle/posts/?feedView=images)
 
 ---
-
+<br>
 This is Saieva.com, the personal Website of Sal Saieva. You can find my career history on [LinkedIn][SalSaievaLinkedInURL] and
 how I can help your startup or enterprise project on the [About page][SalSaievaAboutURL].
 
@@ -17,6 +17,7 @@ I created MettleCVE, a vulnerability lookup tool for iPhone, to help Security Re
 issues faster. You can see quick 35-second a demo of the app [here on YouTube][MettleCVEYouTubeDemoURL].
 
 ---
+<br>
 > A baseball manager recognizes a nonphysical talent, hustle, as an essential gift of great players and great teams.
 > It is the characteristic of running faster than necessary, moving sooner than necessary, trying harder than necessary.
 > It is essential for great programming teams, too. Hustle provides the cushion, the reserve capacity, that enables a
