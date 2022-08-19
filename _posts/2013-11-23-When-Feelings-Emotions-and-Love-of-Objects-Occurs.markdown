@@ -29,6 +29,6 @@ several ways, comments by Jony Ive on his motivations for design are deeply thou
 That is exactly the perspective that makes Jony Ive, and Apple, great.
 The quote comes at approximately 16:50 in the video interview.
 
-![2013 Henning Koppel Pregnant Duck Pitcher](/images/2013-henning-koppel-22pregnant-duck22-red-pitcher.jpg)
+![2013 Henning Koppel Pregnant Duck Pitcher](/images/2013-henning-koppel-22pregnant-duck22-red-pitcher.jpg "2013 Henning Koppel Pregnant Duck Pitcher")
 
 [CharlieRoseYouTubeVideoURL]: https://www.charlierose.com/videos/17469

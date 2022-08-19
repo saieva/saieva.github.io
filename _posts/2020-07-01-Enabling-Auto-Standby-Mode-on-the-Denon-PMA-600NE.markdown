@@ -4,7 +4,7 @@ title:  "Enabling Auto Standby Mode on the Denon PMA-600NE"
 date:   2020-07-01 00:00:01 -0400
 categories: Audiophile
 ---
-![Denon PMA-600NE](/images/DenonPMA-600NE-frontview.png)
+![Denon PMA-600NE](/images/DenonPMA-600NE-frontview.png "Denon PMA-600NE")
 
 The Denon PMA-600NE integrated amplifier can be configured to automatically enter standby mode if not
 operated for more than 30 minutes. Instructions for enabling auto standby mode can be found under the
