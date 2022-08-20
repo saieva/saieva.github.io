@@ -52,7 +52,3 @@ to instill a culture and establish day-to-day working methods for using Agile.
 [ContinuousDeploymentBlogURL]: https://bit.ly/1Qnpyks
 [AgileProductOwnershipBlogURL]: https://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell
 [HenrikKnibergBioURL]: https://www.scrumalliance.org/community/profile/hkniberg
-
-https://smile.amazon.com/Software-30-Days-Customers-Competitors-ebook/dp/B007P6UPLG/ref=sr_1_4?crid=264D242G36A9P&keywords=scrum+30+days&qid=1661014320&sprefix=serum+30+days%2Caps%2C125&sr=8-4
-
-https://smile.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook-dp-B07LCM8RG2/dp/B07LCM8RG2/ref=mt_other?_encoding=UTF8&me=&qid=1661014412
