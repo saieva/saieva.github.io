@@ -24,12 +24,14 @@ to instill a culture and establish day-to-day working methods for using Agile.
 
 **Book Recommendations**
 
-- Extreme Programming Explained (First Edition recommended): [https://amzn.com/0201616416][XPExplainedBookURL]
-- Clean Code: A Handbook of Agile Software Craftsmanship: [https://amzn.com/0132350882][CleanCodeBookURL]
-- Clean Coders: A Code of Conduct for Professional Programmers: [https://amzn.com/0137081073][CleanCodersBookURL]
-- Implementing Lean Software Development: From Concept to Cash: [https://amzn.com/0321437381][LeanSoftwareDevelopmentBookURL]
-- The Pragmatic Programmer: From Journeyman to Master: [https://amzn.com/020161622X][ThePragmaticProgrammerBookURL]
-- Continuous Delivery: Reliable Software Releases though Build, Test, and Deployment: [https://amzn.com/0321601912][ContinuousDeliveryBookURL]
+- Software in 30 Days: [https://amzn.com/dp/B007P6UPLG][SoftwareIn30DaysBookURL]
+- Extreme Programming Explained (First Edition recommended): [https://amzn.com/dp/B00N1ZN6C0][XPExplainedBookURL]
+- Clean Code: A Handbook of Agile Software Craftsmanship: [https://amzn.com/dp/B001GSTOAM][CleanCodeBookURL]
+- Clean Coders: A Code of Conduct for Professional Programmers: [https://amzn.com/dp/B0050JLC9Y][CleanCodersBookURL]
+- Refactoring: Improving the Design of Existing Code: [https://amzn.com/dp/B07LCM8RG2][RefactoringBookURL]
+- Implementing Lean Software Development: From Concept to Cash: [https://amzn.com/dp/0321437381][LeanSoftwareDevelopmentBookURL]
+- The Pragmatic Programmer: From Journeyman to Master: [https://amzn.com/dp/B07VRS84D1][ThePragmaticProgrammerBookURL]
+- Continuous Delivery: Reliable Software Releases though Build, Test, and Deployment: [https://amzn.com/dp/B003YMNVC0][ContinuousDeliveryBookURL]
 
 **Other Articles and References**
 
@@ -39,12 +41,18 @@ to instill a culture and establish day-to-day working methods for using Agile.
 [AgileProductOwnershipYouTubeURL]: https://www.youtube.com/watch?v=502ILHjX9EE
 [ScrumGuideURL]: https://scrumguides.org/index.html
 [AgilePrinciplesURL]: https://agilemanifesto.org/principles.html
-[XPExplainedBookURL]: https://amzn.com/0201616416
-[CleanCodeBookURL]: https://amzn.com/0132350882
-[CleanCodersBookURL]: https://amzn.com/0137081073
-[LeanSoftwareDevelopmentBookURL]: https://amzn.com/0321437381
-[ThePragmaticProgrammerBookURL]: https://amzn.com/020161622X
-[ContinuousDeliveryBookURL]: https://amzn.com/0321601912
+[SoftwareIn30DaysBookURL]: https://amzn.com/dp/B007P6UPLG
+[XPExplainedBookURL]: https://amzn.com/dp/B00N1ZN6C0
+[CleanCodeBookURL]: https://amzn.com/dp/B001GSTOAM
+[CleanCodersBookURL]: https://amzn.com/dp/B0050JLC9Y
+[LeanSoftwareDevelopmentBookURL]: https://amzn.com/dp/0321437381
+[RefactoringBookURL]: https://amzn.com/dp/B07LCM8RG2
+[ThePragmaticProgrammerBookURL]: https://amzn.com/dp/B07VRS84D1
+[ContinuousDeliveryBookURL]: https://amzn.com/dp/B003YMNVC0
 [ContinuousDeploymentBlogURL]: https://bit.ly/1Qnpyks
 [AgileProductOwnershipBlogURL]: https://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell
 [HenrikKnibergBioURL]: https://www.scrumalliance.org/community/profile/hkniberg
+
+https://smile.amazon.com/Software-30-Days-Customers-Competitors-ebook/dp/B007P6UPLG/ref=sr_1_4?crid=264D242G36A9P&keywords=scrum+30+days&qid=1661014320&sprefix=serum+30+days%2Caps%2C125&sr=8-4
+
+https://smile.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook-dp-B07LCM8RG2/dp/B07LCM8RG2/ref=mt_other?_encoding=UTF8&me=&qid=1661014412
