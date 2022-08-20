@@ -11,7 +11,7 @@ permalink: /agile/
 > "How do we do Agile?"
 
 Here are the recommendations I make, and the approach I've used at multiple companies and with dozens of teams,
-to instill a culture and establish day-to-day working methods for using Agile.
+to instill a culture and establish the day-to-day working methods necessary for using Agile.
 
 1. Read the Four Agile Values: [https://agilemanifesto.org][AgileManifestoURL]
 1. Watch the Agile Product Ownership Video (15 minutes): [https://www.youtube.com/watch?v=502ILHjX9EE][AgileProductOwnershipYouTubeURL]
