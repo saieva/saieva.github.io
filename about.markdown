@@ -17,7 +17,7 @@ I am an active Mentor in [NYU's Tandon School of Engineering Management of Techn
 I work independently and I am available to join your enterprise or startup project as a Technical Advisor or Software Consultant.
 I can fill an interim leadership role for your most important application and IT initiatives as CIO or CTO.
 
-I have trained dozens of teams and managed hundreds of projects using Agile methodologies such as Scrum, Extreme Programming,
+I have coached dozens of teams and managed hundreds of projects using Agile methodologies such as Scrum, Extreme Programming,
 and Lean. I am reasonably current in several programming languages and infrastucture automation technologies and I can
 complement a team as an individual contributor when needed.
 
