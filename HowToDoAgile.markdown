@@ -4,7 +4,7 @@ title: "How To Do Agile"
 permalink: /agile/
 ---
 
-![https://twitter.com/saieva/status/487526712474091521](/images/SaievaAgilePeopleTweet-590x180.png "https://twitter.com/saieva/status/487526712474091521")
+<kbd>![https://twitter.com/saieva/status/487526712474091521](/images/SaievaAgilePeopleTweet-590x180.png "https://twitter.com/saieva/status/487526712474091521")</kbd>
 
 > "How do we get started with Agile?"
 >
