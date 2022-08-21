@@ -19,6 +19,10 @@ enterprise project on the [About page][SalSaievaAboutURL].
 I created [MettleCVE][MettleCVEAppURL], a vulnerability lookup tool for iPhone, to help Security Remediation Teams access patch information
 to fix cybersecurity issues faster. You can see a quick 35-second demo of the app [here on YouTube][MettleCVEYouTubeDemoURL].
 
+Interested in Agile methodologies? Colleagues and friends frequently ask me how to get started with Agile for their
+projects and with their teams. The recommendations I've shared and used over-and-over-again are consolidated here on
+the [How To Do Agile][HowToDoAgileURL] page.
+
 ---
 
 <br>
@@ -30,6 +34,7 @@ to fix cybersecurity issues faster. You can see a quick 35-second demo of the ap
 > are the wet blankets that dampen hustle. -Frederick Brooks, [The Mythical Man-Month][MythicalManMonthURL].
 
 [SalSaievaAboutURL]: https://www.saieva.com/about
+[HowToDoAgileURL]: https://www.saieva.com/agile
 [SalSaievaLinkedInURL]: https://www.LinkedIn.com/in/Saieva
 [MettleCVEAppURL]: https://apps.apple.com/us/app/mettlecve/id1555613958
 [MythicalManMonthURL]: https://smile.amazon.com/dp/B00B8USS14/ref=cm_sw_r_tw_dp_K3DZW88D1T726NP8QQX4
