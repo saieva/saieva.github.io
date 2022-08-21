@@ -51,7 +51,7 @@ to instill an Agile culture and establish the day-to-day processes for using Scr
 
 - Continuous Deployment at IMVU: Doing the impossible fifty times a day
   - [https://bit.ly/1Qnpyks][ContinuousDeploymentBlogURL]
-- Spotify Engineering Culture is based on Agile values and principles customized for their purposes. The Spotify process
+- Spotify's Engineering Culture is based on Agile values and principles customized for their purposes. The Spotify process
 introduces new concepts and terms and makes a good example for how Agile based processes can be adjusted to meet specfic objectives.
   - [https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1][SpotifyEngCulturePart1URL]
   - [https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2][SpotifyEngCulturePart2URL]
