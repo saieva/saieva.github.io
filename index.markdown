@@ -16,8 +16,8 @@ This is Saieva.com, the personal Website of Sal Saieva. I am an independent IT a
 You can find my career background on [LinkedIn][SalSaievaLinkedInURL] and ways I can help your startup or
 enterprise project on the [About page][SalSaievaAboutURL].
 
-I created [MettleCVE][MettleCVEAppURL], a vulnerability lookup tool for iPhone, to help Security Remediation teams fix cybersecurity
-issues faster. You can see a quick 35-second demo of the app [here on YouTube][MettleCVEYouTubeDemoURL].
+I created [MettleCVE][MettleCVEAppURL], a vulnerability lookup tool for iPhone, to help Security Remediation Teams access patch information
+to fix cybersecurity issues faster. You can see a quick 35-second demo of the app [here on YouTube][MettleCVEYouTubeDemoURL].
 
 ---
 
