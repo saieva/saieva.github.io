@@ -11,7 +11,7 @@ permalink: /agile/
 > "How do we do Agile?"
 
 Here are the recommendations I make, and the approach I've used at multiple companies and with dozens of teams,
-to instill a culture and establish the day-to-day working methods necessary for using Agile.
+to instill an Agile culture and establish the day-to-day processes for using Scrum, Extreme Programming, and Lean.
 
 1. Read the Four Agile Values: [https://agilemanifesto.org][AgileManifestoURL]
 1. Watch the Agile Product Ownership Video (15 minutes): [https://www.youtube.com/watch?v=502ILHjX9EE][AgileProductOwnershipYouTubeURL]
@@ -23,6 +23,9 @@ to instill a culture and establish the day-to-day working methods necessary for 
 1. Coach... Coach... Coach...
 
 **Book Recommendations**
+
+> Agile is not a process. Agile is not a fad. Agile is not merely a set of rules. Rather, Agile is a set of rights, expectations, and
+> disciplines of the kind that form the basis of an ethical profession. -Robert C. Martin, [Clean Agile: Back to Basics][CleanAgileBookURL].
 
 - Software in 30 Days: [https://amzn.com/dp/B007P6UPLG][SoftwareIn30DaysBookURL]
 - Extreme Programming Explained (First Edition recommended): [https://amzn.com/dp/B00N1ZN6C0][XPExplainedBookURL]
@@ -41,6 +44,7 @@ to instill a culture and establish the day-to-day working methods necessary for 
 [AgileProductOwnershipYouTubeURL]: https://www.youtube.com/watch?v=502ILHjX9EE
 [ScrumGuideURL]: https://scrumguides.org/index.html
 [AgilePrinciplesURL]: https://agilemanifesto.org/principles.html
+[CleanAgileBookURL]: https://amzn.com/dp/B07XTL99JQ
 [SoftwareIn30DaysBookURL]: https://amzn.com/dp/B007P6UPLG
 [XPExplainedBookURL]: https://amzn.com/dp/B00N1ZN6C0
 [CleanCodeBookURL]: https://amzn.com/dp/B001GSTOAM
