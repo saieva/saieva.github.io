@@ -22,7 +22,7 @@ And a Lodge 2-Quart Cast Iron Dutch Oven is just the right size for cooking one 
 And find a digital kitchen scale that measures in grams. This Amazon Basics model gets
 the job done: [https://amazon.com/AmazonBasics-Stainless-Digital-Batteries-Included/dp/B06X9NQ8GX/][DigitalScaleURL]
 
-And here is one example of my results, using all the recommendations above.
+And here is one example of the results using all the recommendations above.
 
 ![No-Knead Christmas Bread, December 2013](/images/NoKneadChristmasBread-20131225.jpg "No-Knead Christmas Bread, December 2013")
 
