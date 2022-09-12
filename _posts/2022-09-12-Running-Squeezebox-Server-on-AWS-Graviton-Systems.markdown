@@ -4,21 +4,21 @@ title:  "Running Squeezebox Server on AWS Graviton Systems"
 date:   2022-09-12 00:00:01 -0400
 categories: AWS Linux Audiophile
 ---
-For anyone interested in running Logitech Media Server (LMS aka Squeezebox Server) on AWS EC2 instances running
+For anyone interested in running Logitech Media Server (LMS aka Squeezebox Server) on AWS EC2 instances with
 Graviton processors, here is a tested configuration with a list of additional packages that are required.
 
-*Logitech Media Server*
+**Logitech Media Server**
 
 - v8.3.0 ARM Linux Tarball (ARM EABI) downloaded from the [slimdevices.com nightly builds][LMS83NightlyURL]
 
-*Instance Type and Operating System*
+**Instance Type and Operating System**
 
 - Amazon T4g.small (2 vCPUs and 2 GB of memory). T4g instances run Amazon's 2nd generation ARM-based
-Graviton processors. Until December 31, 2022, Amazon is offering T4g.small instances on a **free trial**
+Graviton processors. Until December 31, 2022, Amazon is offering T4g.small instances on a *free trial*
 for up to 750 hours/month.
 - Amazon Linux 2022 AMI 2022.0.20220824.0 arm64 HVM kernel-5.15 (ami-09d6dff71c75d903e)
 
-*OS Package Dependencies*
+**OS Package Dependencies**
 
 - `perl-deprecate`
 - `perl-I18N-LangTags`
@@ -32,7 +32,7 @@ for up to 750 hours/month.
 
 All dependencies were installed from Amazon's standard package repository (using the `yum` command).
 
-One additional note about the package dependencies, without `perl-deprecate` installed the LMS startup command
+One additional note about package dependencies, without `perl-deprecate` installed the LMS startup command
 (ie, `slimserver.pl`) will produce the following error message:
 
 ```
