@@ -4,7 +4,7 @@ title:  "chef-run Compatibility with Amazon Linux 2022"
 date:   2022-09-14 00:00:01 -0400
 categories: AWS Linux
 ---
-I've found two compatability issues between Chef Workstation (ie, the `chef-run` command) and Amazon Linux 2022 (AL2022).
+I've found two compatibility issues between Chef Workstation (ie, the `chef-run` command) and Amazon Linux 2022 (AL2022).
 The versions tested were:
 
 - Chef Workstation v22.7.1006 for macOS 12 on aarch64 ([download here][ChefWorkstationDownloadURL])
@@ -16,16 +16,19 @@ won't connect (ie, won't `ssh`) to a server with an RSA `--identity-file`. There
 1. Use an `ed25519` key pair to start the AL2022 EC2 instance and for the `chef-run --identify-file` parameter.
 (This is the preferred option to avoid the interactive change in the next recommendation.) Instructions for creating a new
 EC2 key pair are [here][EC2CreateKeyPairURL].
-1. On the AL2022 server, edit the `/usr/share/crypto-policies/DEFAULT/opensshserver.txt` file and add `ssh-rsa` to the `PubkeyAcceptedKeyTypes`
-list.
+1. Otherwise, if it's necessary to use an RSA key pair, on the AL2022 server, edit
+`/usr/share/crypto-policies/DEFAULT/opensshserver.txt` file and add `ssh-rsa` to the `PubkeyAcceptedKeyTypes` list.
 
-The second compatability issue occurs when a Chef Cookbook fails to converge with the error:
+The second compatibility issue occurs when a Chef Cookbook fails to converge with the error:
 
+```
 > [2022-09-01T14:27:44-04:00] ERROR: stderr: /opt/chef/embedded/bin/ruby: error while loading shared libraries: libcrypt.so.1:
 > cannot open shared object file: No such file or directory
+```
 
-Resolve this issue by installing `libxcrypt-compat` from Amazon's default package repository (ie, `yum -y install libxcrypt-compat`).
-This issue was reported on the Amazon Linux 2022 repository on GitHub. For details and status see
+- Resolve this issue by installing `libxcrypt-compat` from Amazon's default package repository (ie, `yum -y install libxcrypt-compat`).
+
+A new package install request was submitted through the Amazon Linux 2022 repository on GitHub. For details and status see
 [https://github.com/amazonlinux/amazon-linux-2022/issues/182][AL2022PackageInstallRequestURL].
 
 [ChefWorkstationDownloadURL]: https://www.chef.io/downloads/get-started/desktop-management
