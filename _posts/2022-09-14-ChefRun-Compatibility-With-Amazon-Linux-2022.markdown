@@ -27,8 +27,8 @@ The second compatibility issue occurs when a Chef Cookbook fails to converge wit
 
 - Resolve this issue by installing `libxcrypt-compat` from Amazon's default package repository (ie, `yum -y install libxcrypt-compat`).
 
-A new package install request was submitted through the Amazon Linux 2022 repository on GitHub. For details and status see
-[https://github.com/amazonlinux/amazon-linux-2022/issues/182][AL2022PackageInstallRequestURL].
+A new package install request for `libxcrypt-compat` was submitted through the Amazon Linux 2022 repository on GitHub.
+For details and status see [https://github.com/amazonlinux/amazon-linux-2022/issues/182][AL2022PackageInstallRequestURL].
 
 [ChefWorkstationDownloadURL]: https://www.chef.io/downloads/get-started/desktop-management
 [EC2CreateKeyPairURL]: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/create-key-pairs.html
