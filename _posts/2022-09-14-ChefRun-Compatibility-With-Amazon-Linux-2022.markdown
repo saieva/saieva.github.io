@@ -17,14 +17,13 @@ won't connect (ie, won't `ssh`) to a server with an RSA `--identity-file`. There
 (This is the preferred option to avoid the interactive change in the next recommendation.) Instructions for creating a new
 EC2 key pair are [here][EC2CreateKeyPairURL].
 1. Otherwise, if it's necessary to use an RSA key pair, on the AL2022 server, edit
-`/usr/share/crypto-policies/DEFAULT/opensshserver.txt` file and add `ssh-rsa` to the `PubkeyAcceptedKeyTypes` list.
+`/usr/share/crypto-policies/DEFAULT/opensshserver.txt` and add `ssh-rsa` to the `PubkeyAcceptedKeyTypes` list.
 
 The second compatibility issue occurs when a Chef Cookbook fails to converge with the error:
 
-```
-> [2022-09-01T14:27:44-04:00] ERROR: stderr: /opt/chef/embedded/bin/ruby: error while loading shared libraries: libcrypt.so.1:
-> cannot open shared object file: No such file or directory
-```
+    [2022-09-01T14:27:44-04:00] ERROR: stderr: /opt/chef/embedded/bin/ruby:
+    error while loading shared libraries: libcrypt.so.1:
+    cannot open shared object file: No such file or directory
 
 - Resolve this issue by installing `libxcrypt-compat` from Amazon's default package repository (ie, `yum -y install libxcrypt-compat`).
 
