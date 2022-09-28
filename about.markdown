@@ -12,7 +12,8 @@ Fortune 100 company.
 
 I am the developer of MettleCVE, a vulnerability lookup tool for iPhone that's available on [The Apple App Store][MettleCVEAppURL].
 
-I am an active Mentor in [NYU's Tandon School of Engineering Management of Technology Graduate Degree Program][NYUMoTURL].
+I am an active Mentor in NYU's Tandon School of Engineering [Management of Technology][NYUMoTURL] and [Cyber Fellows][NYUCyberFellowsURL]
+Graduate degree programs.
 
 I work independently and I am available to join your enterprise or startup project as a Technical Advisor or Software Consultant.
 I can fill an interim leadership role for your most important application and IT initiatives as CIO or CTO.
@@ -35,3 +36,4 @@ Salvatore Saieva
 [SaievaLinkedInURL]: https://www.LinkedIn.com/in/Saieva
 [MettleCVEAppURL]: https://apps.apple.com/us/app/mettlecve/id1555613958
 [NYUMoTURL]: https://engineering.nyu.edu/academics/programs/management-technology-ms
+[NYUCyberFellowsURL]: https://engineering.nyu.edu/academics/programs/cybersecurity-ms-online/nyu-cyber-fellows
