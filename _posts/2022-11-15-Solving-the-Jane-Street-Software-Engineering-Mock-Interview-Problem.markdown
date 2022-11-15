@@ -23,7 +23,7 @@ And conversion facts for hours and minutes are:
 
 I thought about the conversion facts as a list of lists, like this:
 
-- `[ ["m", 3.28, "ft"], ["ft", 12, "in"],  
+- `[ ["m", 3.28, "ft"], ["ft", 12, "in"], \
      ["hr", 60, "min"], ["min", 60, "sec"] ]`
 
 With that data structure there appeared to be a recursive nature to the solution, meaning to convert from meters to
