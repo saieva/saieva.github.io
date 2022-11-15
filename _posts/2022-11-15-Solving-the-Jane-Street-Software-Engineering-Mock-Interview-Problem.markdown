@@ -38,8 +38,8 @@ There are two other properties of the facts worth noting:
 So given the fact `["ft", 12, "in"]` we can imply an inch is 1/12th of a foot or `["in", 1/12, "ft"]`.
 
 I decided to include the definition of facts in the constructor of a Python class called `UnitConversion`. This approach
-avoiding passing a list of facts into every call of a conversion method. The class includes an `addFacts()` method so
-classes can easily be created with different lists of facts.
+avoided passing a list of facts into every conversion call. The class includes an `addFacts()` method so classes can be
+easily instantiated with different lists of facts.
 
 My solution includes a `convert()` method that is passed a conversion query. To convert 10 meters to inches the method
 would be called like this:
@@ -83,7 +83,7 @@ Here is the algorithm for a recursive solution:
 
 The `convert()` method first attempts to resolve the query from the facts that were given. If a solution isn't found,
 `convert()` then attempts to resolve the query against "inverse facts" which are the facts that are implied from the
-given facts.
+given facts. If no solution is found, from either facts or inverse facts, then `"not convertible!"` is returned.
 
 Inverse facts are dynamically computed as a property from a list comprehension like this:
 
@@ -93,6 +93,18 @@ Inverse facts are dynamically computed as a property from a list comprehension l
         return [ [fact[2], 1/fact[1], fact[0]] for fact in self.Facts ]
 ```
 
-So a fact such as `["ft", 12, "in"]` would return `["in", 1/12, "ft"]` as an inverse fact.
+A fact such as `["ft", 12, "in"]` would return `["in", 1/12, "ft"]` as an inverse fact.
+
+The mock interview landed on a different design based on a dictionary data structure (rather than a list-of-lists as
+I used) and a graph approach with a breath first algorithm (rather than the recusive algorithm in my approach).
+
+The mock interview implemented a solution in approximately 40 minutes (excluding the time to state requirements and
+summary at the end). I was working on my solution for between 3-4 hours over two days (so I had a lot of extra time
+to think consider the problem).
+
+My solution includes 12 unit tests and 49 asserts. The investment in unit tests influences the design and supports
+changes to the code in the future.
+
+Source code for the recursive solution and unit tests can be downloaded here from GitHub.
 
 [EngineeringMockInterviewYouTubeURL]: https://www.youtube.com/watch?v=VfbFJISCP3g
