@@ -23,7 +23,7 @@ And conversion facts for hours and minutes are:
 
 I thought about the conversion facts as a list of lists, like this:
 
-- `[ ["m", 3.28, "ft"], ["ft", 12, "in"],
+- `[ ["m", 3.28, "ft"], ["ft", 12, "in"],  
      ["hr", 60, "min"], ["min", 60, "sec"] ]`
 
 With that data structure there appeared to be a recursive nature to the solution, meaning to convert from meters to
@@ -96,14 +96,14 @@ Inverse facts are dynamically computed as a property from a list comprehension l
 A fact such as `["ft", 12, "in"]` would return `["in", 1/12, "ft"]` as an inverse fact.
 
 The mock interview landed on a different design based on a dictionary data structure (rather than a list-of-lists as
-I used) and a graph approach with a breath first algorithm (rather than the recusive algorithm in my approach).
+I used) and a graph with a breath first algorithm (rather than the recusive algorithm in my solution).
 
 The mock interview implemented a solution in approximately 40 minutes (excluding the time to state requirements and
-summary at the end). I was working on my solution for between 3-4 hours over two days (so I had a lot of extra time
-to think consider the problem).
+summary at the end). I was working on my solution for between 3-4 hours over two days; I had a lot of extra time
+to consider the problem.
 
 My solution includes 12 unit tests and 49 asserts. The investment in unit tests influences the design and supports
-changes to the code in the future.
+changes to the code in the future. With the extra time I created executable code and tests.
 
 Source code for the recursive solution and unit tests can be downloaded here from GitHub.
 
