@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Solving the Jane Street Software Engineering Mock Interview Problem"
-date:   2022-11-14 06:00:01 -0400
+date:   2022-11-15 06:00:01 -0400
 categories: Programming
 ---
 
-[JaneStreetWebsiteURL][Jane Street], the technically innovative trading firm in NYC, posted a software engineering
+[Jane Street][JaneStreetWebsiteURL], the technically innovative trading firm in NYC, posted a software engineering
 mock interview on YouTube. The [50 minute video][EngineeringMockInterviewYouTubeURL] problem solved a program to
 convert units from meters-to-inches and hours-to-seconds. The problem caught my interest (and seemed straightforwward
 enough) so I paused the video at 6:30 right after the requirements were described and decided to give it a go in Python.
@@ -37,7 +37,7 @@ There are two other properties about facts worth noting:
   - 1 meter = 3.28 feet.
   - 1 hour = 60 minutes.
 - If we have facts to compute meters-to-inches then we should be able to compute the inverse inches-to-meters.
-So given the fact `["ft", 12, "in"]` we can imply an inch is 1/12th of a foot or `["in", 1/12, "ft"]`.
+So given the fact `["ft", 12, "in"]` we can imply an inch is 1/12th of a foot or `["in", 1/12, "ft"]` in tuple format.
 
 I decided to include the definition of facts in the constructor of a Python class called `UnitConversion`. This approach
 avoided passing a list of facts into every conversion call. The class includes an `addFacts()` method so instances can be
