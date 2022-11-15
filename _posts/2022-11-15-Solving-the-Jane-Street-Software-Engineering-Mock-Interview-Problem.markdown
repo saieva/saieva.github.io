@@ -116,4 +116,4 @@ Source code for the recursive solution and unit tests can be [downloaded from Gi
 
 [JaneStreetWebsiteURL]: https://www.JaneStreet.com
 [EngineeringMockInterviewYouTubeURL]: https://www.youtube.com/watch?v=VfbFJISCP3g
-[UnitConversionGitRepoURL]: https://github.com/WebMettle/UnitConversion.git
+[UnitConversionGitRepoURL]: https://github.com/WebMettle/UnitConversion
