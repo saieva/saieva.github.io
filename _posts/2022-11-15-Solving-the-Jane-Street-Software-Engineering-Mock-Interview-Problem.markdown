@@ -7,7 +7,7 @@ categories: Programming
 
 Jane Street, the technically innovative trading firm in NYC, posted a software engineering mock interview on YouTube.
 The [50 minute video][EngineeringMockInterviewYouTubeURL] problem solved a program to convert units from meters-to-inches
-and hours-to-seconds. The problem seemed interesting (and straightforwward enough) so I paused the video at 6:30 right
+and hours-to-seconds. The problem caught my interest (and seemed straightforwward enough) so I paused the video at 6:30 right
 after the requirements were described and decided to give it a go in Python.
 
 The requirements are for the program to be given a list of "conversion facts" in the form of a tuple. Conversion facts for meters and
@@ -23,10 +23,12 @@ And conversion facts for hours and minutes are:
 
 I thought about the conversion facts as a list of lists, like this:
 
-- `[ ["m", 3.28, "ft"], ["ft", 12, "in"], <br/>
-     ["hr", 60, "min"], ["min", 60, "sec"] ]`
+```
+[ ["m", 3.28, "ft"], ["ft", 12, "in"],
+  ["hr", 60, "min"], ["min", 60, "sec"] ]
+```
 
-With that data structure there appeared to be a recursive nature to the solution, meaning to convert from meters to
+With that data structure a recursive solution seemed possible, meaning to convert from meters to
 inches would require a conversion through feet: 1 meter = (3.28 feet/meter * 12 inches/foot).
 
 There are two other properties of the facts worth noting:
@@ -34,23 +36,28 @@ There are two other properties of the facts worth noting:
 - Each fact has an implied unit of one:
   - 1 meter = 3.28 feet.
   - 1 hour = 60 minutes.
-- If we have facts to compute meters-to-inches then we should be able to compute the inverse inches-to-meters.
+- If we have facts to compute meters-to-inches then we should be able to compute the inverse of inches-to-meters.
 So given the fact `["ft", 12, "in"]` we can imply an inch is 1/12th of a foot or `["in", 1/12, "ft"]`.
 
 I decided to include the definition of facts in the constructor of a Python class called `UnitConversion`. This approach
-avoided passing a list of facts into every conversion call. The class includes an `addFacts()` method so classes can be
-easily instantiated with different lists of facts.
+avoided passing a list of facts into every conversion call. The class includes an `addFacts()` method so instances can be
+created with different lists of facts as needed.
 
 My solution includes a `convert()` method that is passed a conversion query. To convert 10 meters to inches the method
 would be called like this:
 
-`UnitConversion.convert([10, "m", "in"])`
+```
+uc = UnitConversion()
+conversionResult = uc.convert([10, "m", "in"])`
+```
 
 In support of a recursive approach, it occurred to me that asking to convert any value to the same units, say,
 10 inches to inches (ie, `[10, "in", "in"]` in a query) would return the same value; this became the base case
 of the recusive solution.
 
-- `UnitConverstion.convert([10, "in", "in"]) = [10, "in"]`
+```
+uc.convert([10, "in", "in"]) returns [10, "in"]
+```
 
 Here is the algorithm for a recursive solution:
 
@@ -95,15 +102,14 @@ Inverse facts are dynamically computed as a property from a list comprehension l
 
 A fact such as `["ft", 12, "in"]` would return `["in", 1/12, "ft"]` as an inverse fact.
 
-The mock interview landed on a different design based on a dictionary data structure (rather than a list-of-lists as
-I used) and a graph with a breath first algorithm (rather than the recusive algorithm in my solution).
+The mock interview landed on a different design based on a dictionary data structure implementing a connected graph
+with a breath first algorithm (rather than the list-of-lists and recusive algorithm in my solution).
 
 The mock interview implemented a solution in approximately 40 minutes (excluding the time to state requirements and
-summary at the end). I was working on my solution for between 3-4 hours over two days; I had a lot of extra time
-to consider the problem.
-
-My solution includes 12 unit tests and 49 asserts. The investment in unit tests influences the design and supports
-changes to the code in the future. With the extra time I created executable code and tests.
+summarize at the end). I worked on the recursive solution for a total of 3-4 hours over two days. My solution
+includes 12 unit tests containing 49 asserts. Although I could have productively reasoned about a recursive solution
+in a conversation, I would have found it very difficult to write anything close to executable code without the feedback
+of the edit-run-debug and TDD (Test Driven Development) cycles.
 
 Source code for the recursive solution and unit tests can be downloaded here from GitHub.
 
