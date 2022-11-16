@@ -53,7 +53,7 @@ conversionResult = uc.convert([10, "m", "in"])
 
 In support of a recursive approach, it occurred to me that asking to convert any value to the same units, say,
 10 inches to inches (ie, `[10, "in", "in"]` in a query) would return the same value; this became the base case
-for the recursion.
+for recursion.
 
 ```
 uc.convert([10, "in", "in"]) returns [10, "in"]
