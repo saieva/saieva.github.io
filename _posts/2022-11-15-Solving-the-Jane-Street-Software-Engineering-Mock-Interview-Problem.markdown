@@ -7,7 +7,7 @@ categories: Programming
 
 [Jane Street][JaneStreetWebsiteURL], the technically innovative trading firm in NYC, posted a software engineering
 mock interview on YouTube. The [50 minute video][EngineeringMockInterviewYouTubeURL] problem solved a program to
-convert units from meters-to-inches and hours-to-seconds. The problem caught my interest (and seemed straightforwward
+convert units from meters-to-inches and hours-to-seconds. The problem caught my interest (and seemed straightforward
 enough) so I paused the video at 6:30 right after the requirements were described and decided to give it a go in Python.
 
 The requirements are for the program to be given a list of "conversion facts" in the form of a tuple. Conversion facts for meters and
@@ -53,7 +53,7 @@ conversionResult = uc.convert([10, "m", "in"])
 
 In support of a recursive approach, it occurred to me that asking to convert any value to the same units, say,
 10 inches to inches (ie, `[10, "in", "in"]` in a query) would return the same value; this became the base case
-of the recusive solution.
+for the recursion.
 
 ```
 uc.convert([10, "in", "in"]) returns [10, "in"]
@@ -108,9 +108,10 @@ different design based on a dictionary data structure representing a connected g
 
 The mock interview implemented a solution in approximately 40 minutes (excluding the time to state requirements and
 summarize at the end). I worked on the recursive solution for a total of 3-4 hours over two days. My solution
-includes 12 unit tests containing 49 asserts. Although I could have productively reasoned about a recursive solution
-in a conversation, I would have found it very difficult to write anything close to executable code without the feedback
-of the edit-run-debug and TDD (Test Driven Development) cycles.
+includes 12 unit tests containing over 50 asserts (considering some tests call assert statements dynamically within
+a loop to cover all scenarios). Although I could have productively reasoned about a recursive solution in a conversation,
+I would have found it very difficult to write anything close to executable code without the feedback of the edit-run-debug
+and TDD (Test Driven Development) cycles.
 
 Source code for the recursive solution and unit tests can be [downloaded from GitHub][UnitConversionGitRepoURL].
 
