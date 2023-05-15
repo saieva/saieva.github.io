@@ -24,15 +24,15 @@ from their wedding album.
 
 Before being married, my Mom lived with her Mother and Father on Bleeker Street in Brooklyn.
 
-[<img src="/mom_dad_wedding_images/705699990.757823.jpg" title="Mom getting ready..." height="45%" width="45%"](https://saieva.com/mom_dad_wedding_images/705699990.757823.jpg)
-[<img src="/mom_dad_wedding_images/705700048.284366.jpg" title="Mom getting ready..." height="45%" width="45%"](https://saieva.com/mom_dad_wedding_images/705700048.284366.jpg)
-[<img src="/mom_dad_wedding_images/705700086.229167.jpg" title="Mom getting ready..." height="45%" width="45%"](https://saieva.com/mom_dad_wedding_images/705700086.229167.jpg)
-[<img src="/mom_dad_wedding_images/705700110.202103.jpg" title="Mom getting ready..." height="45%" width="45%"](https://saieva.com/mom_dad_wedding_images/705700110.202103.jpg)
-[<img src="/mom_dad_wedding_images/705700131.086086.jpg" title="Mom getting ready..." height="45%" width="45%"](https://saieva.com/mom_dad_wedding_images/705700131.086086.jpg)
+[<img src="/mom_dad_wedding_images/705699990.757823.jpg" title="Mom getting ready..." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705699990.757823.jpg)
+[<img src="/mom_dad_wedding_images/705700048.284366.jpg" title="Mom getting ready..." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700048.284366.jpg)
+[<img src="/mom_dad_wedding_images/705700086.229167.jpg" title="Mom getting ready..." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700086.229167.jpg)
+[<img src="/mom_dad_wedding_images/705700110.202103.jpg" title="Mom getting ready..." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700110.202103.jpg)
+[<img src="/mom_dad_wedding_images/705700131.086086.jpg" title="Mom getting ready..." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700131.086086.jpg)
 
-[<img src="/mom_dad_wedding_images/705700156.615221.jpg" title="Mom getting ready..." height="45%" width="45%"](https://saieva.com/mom_dad_wedding_images/705700156.615221.jpg)
-[<img src="/mom_dad_wedding_images/705700180.611941.jpg" title="Mom getting ready..." height="45%" width="45%"](https://saieva.com/mom_dad_wedding_images/705700180.611941.jpg)
-[<img src="/mom_dad_wedding_images/705700511.015386.jpg" title="Mom getting ready..." height="45%" width="45%"](https://saieva.com/mom_dad_wedding_images/705700511.015386.jpg)
-[<img src="/mom_dad_wedding_images/705700530.664106.jpg" title="Mom getting ready..." height="45%" width="45%"](https://saieva.com/mom_dad_wedding_images/705700530.664106.jpg)
-[<img src="/mom_dad_wedding_images/705700600.721946.jpg" title="Mom getting ready..." height="45%" width="45%"](https://saieva.com/mom_dad_wedding_images/705700600.721946.jpg)
+[<img src="/mom_dad_wedding_images/705700156.615221.jpg" title="Mom getting ready..." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700156.615221.jpg)
+[<img src="/mom_dad_wedding_images/705700180.611941.jpg" title="Mom getting ready..." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700180.611941.jpg)
+[<img src="/mom_dad_wedding_images/705700511.015386.jpg" title="Mom getting ready..." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700511.015386.jpg)
+[<img src="/mom_dad_wedding_images/705700530.664106.jpg" title="Mom getting ready..." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700530.664106.jpg)
+[<img src="/mom_dad_wedding_images/705700600.721946.jpg" title="Mom getting ready..." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700600.721946.jpg)
 
