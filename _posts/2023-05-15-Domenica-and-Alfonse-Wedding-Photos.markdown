@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+hidden: true
 title:  "Domenica and Alfonse Wedding Day, August 5, 1962"
 date:   2022-11-15 06:00:01 -0400
 categories: Photos
