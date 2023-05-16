@@ -49,6 +49,9 @@ My Parent's wedding ceremony was at St. Leonard's Church, Wilson Avenue and Jeff
 [<img src="/mom_dad_wedding_images/705700840.847240.jpg" title="Pete, Josephine, and Tony Profito." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700840.847240.jpg)
 [<img src="/mom_dad_wedding_images/705700865.738274.jpg" title="On the steps of the church." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700865.738274.jpg)
 [<img src="/mom_dad_wedding_images/705700883.506656.jpg" title="A shower of rice." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700883.506656.jpg)
+
+Wedding photos were taken at Imperial Studio in Bushwick, Brooklyn.
+
 [<img src="/mom_dad_wedding_images/705700901.926609.jpg" title="Out of the limo." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700901.926609.jpg)
 [<img src="/mom_dad_wedding_images/705700936.221785.jpg" title="Bridal Party in the studio." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700936.221785.jpg)
 [<img src="/mom_dad_wedding_images/705700956.127815.jpg" title="With the Best Man and Maid of Honor." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700956.127815.jpg)
