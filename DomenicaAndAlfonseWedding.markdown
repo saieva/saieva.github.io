@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Domenica and Alfonse Wedding Day, August 5, 1962"
+title:  "Domenica and Alfonse: August 5, 1962"
 date:   2023-05-15 06:00:01 -0400
 categories: Photos
 permalink: /dawedding.html
@@ -8,21 +8,20 @@ permalink: /dawedding.html
 
 ![Domenica Saieva (nee Profito)](/mom_dad_wedding_images/705702162.033569.jpg "Domenica Saieva (nee Profito)")
 
-My Mom and Dad, Domenica and Alfonse, were married in St. Leonard's R.C. Church in Brooklyn, NY on August 5, 1962.
-Their wedding reception was held at Saieva's Parkview Manor, my family's catering hall, also in Brooklyn on Knickerbocker Avenue.
+My Mom and Dad, Domenica and Alfonse Saieva, were married in St. Leonard's R.C. Church in Brooklyn, NY on August 5, 1962.
 
 [<img src="/mom_dad_wedding_images/705701779.248657.jpg" title="Wedding Invitation Cover" height="30%" width="30%">](https://saieva.com/mom_dad_wedding_images/705701779.248657.jpg)
 [<img src="/mom_dad_wedding_images/705701802.383079.jpg" title="Wedding Ceremony Invitation" height="30%" width="30%">](https://saieva.com/mom_dad_wedding_images/705701802.383079.jpg)
 [<img src="/mom_dad_wedding_images/705701830.020159.jpg" title="Wedding Receiption Invitation" height="30%" width="30%">](https://saieva.com/mom_dad_wedding_images/705701830.020159.jpg)
 
 Their wedding album was in a beautifully crafted box with an 8x10 image of my Mom framed on the inside cover.
-Photos were taken by Imperial Studio, Brooklyn, NY. All photos that follow are digitized from 10x10 pictures
+Photos were taken by Imperial Studio, Brooklyn, NY. The photos that follow are digitized from 10x10 pictures
 from their wedding album.
 
 [<img src="/mom_dad_wedding_images/IMG_2899.jpeg" height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/IMG_2899.jpeg)
 [<img src="/mom_dad_wedding_images/IMG_2907.jpeg" height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/IMG_2907.jpeg)
 
-Before being married, my Mom lived with her Mother and Father on Bleeker Street in Brooklyn.
+My Mom lived with her Mother and Father on Bleeker Street in Brooklyn.
 
 [<img src="/mom_dad_wedding_images/705699990.757823.jpg" title="Mom getting ready..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705699990.757823.jpg)
 [<img src="/mom_dad_wedding_images/705700048.284366.jpg" title="Mom getting ready..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700048.284366.jpg)
@@ -35,7 +34,7 @@ Before being married, my Mom lived with her Mother and Father on Bleeker Street 
 [<img src="/mom_dad_wedding_images/705700530.664106.jpg" title="Mom getting ready..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700530.664106.jpg)
 [<img src="/mom_dad_wedding_images/705700600.721946.jpg" title="Mom getting ready..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700600.721946.jpg)
 
-My Parent's wedding ceremony was at St. Leonard's Church, Wilson Avenue and Jefferson Street, in Bushwick Brooklyn.
+The wedding ceremony was at St. Leonard's Church, Wilson Avenue and Jefferson Street, in Bushwick Brooklyn.
 
 [<img src="/mom_dad_wedding_images/705700622.817588.jpg" title="Dad and his brother." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700622.817588.jpg)
 [<img src="/mom_dad_wedding_images/705700643.603426.jpg" title="At the alter." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700643.603426.jpg)
@@ -80,7 +79,7 @@ Wedding photos were taken at Imperial Studio in Bushwick, Brooklyn.
 ![Saieva's Parkview Manor](/mom_dad_wedding_images/IMG_7291.jpg "Saieva's Parkview Manor")
 
 The wedding receiption was held at Saieva's Parkview Manor in Bushwick Brooklyn (at the corner of Knickerbocker and Willoughby Avenues).
-The catering hall was owned by my family and my Dad worked there with his Father and Brother. We lived adjacent the business on Starr Street.
+The catering hall was owned by my family and my Dad with his Father and Brother ran the business. We lived adjacent the hall on Starr Street.
 
 [<img src="/mom_dad_wedding_images/705701405.129633.jpg" title="Entering the wedding receiption." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701405.129633.jpg)
 [<img src="/mom_dad_wedding_images/705701423.771600.jpg" title="First dance." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701423.771600.jpg)
@@ -102,3 +101,5 @@ My Dad was a very skilled Baker, Italian Pastryman, and a graduate of the Wilton
 [<img src="/mom_dad_wedding_images/705701710.214858.jpg" title="A new Cadillac." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701710.214858.jpg)
 [<img src="/mom_dad_wedding_images/705701727.830363.jpg" title="A new Cadillac." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701727.830363.jpg)
 [<img src="/mom_dad_wedding_images/705701748.084514.jpg" title="Do not disturb." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701748.084514.jpg)
+
+The End.
