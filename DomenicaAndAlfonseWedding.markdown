@@ -75,4 +75,15 @@ Wedding photos were taken at Imperial Studio in Bushwick, Brooklyn.
 [<img src="/mom_dad_wedding_images/705701317.387185.jpg" title="Alfonse with hat." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701317.387185.jpg)
 [<img src="/mom_dad_wedding_images/705701338.768655.jpg" title="Alfonse with frying pan." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701338.768655.jpg)
 [<img src="/mom_dad_wedding_images/705701359.357960.jpg" title="Domenica with Groomsmen." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701359.357960.jpg)
+[<img src="/mom_dad_wedding_images/705701387.504743.jpg" title="Alfonse with Brides Maids." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701387.504743.jpg)
+
+![Saieva's Parkview Manor](/mom_dad_wedding_images/IMG_7291.jpg "Saieva's Parkview Manor")
+
+The wedding receiption was held at Saieva's Parkview Manor in Bushwick Brooklyn (at the corner of Knickerbocker and Willoughby Avenues).
+The catering hall was owned by my family and my Dad worked there with his Father and Brother. We lived adjacent the business on Starr Street.
+
+[<img src="/mom_dad_wedding_images/705701405.129633.jpg" title="Entering the wedding receiption." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701405.129633.jpg)
+[<img src="/mom_dad_wedding_images/705701423.771600.jpg" title="First dance." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701423.771600.jpg)
+[<img src="/mom_dad_wedding_images/705701445.044669.jpg" title="Dancing..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701445.044669.jpg)
+[<img src="/mom_dad_wedding_images/705701463.786923.jpg" title="First dance." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701463.786923.jpg)
 
