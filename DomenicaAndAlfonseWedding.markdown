@@ -29,7 +29,7 @@ Before being married, my Mom lived with her Mother and Father on Bleeker Street 
 [<img src="/mom_dad_wedding_images/705700086.229167.jpg" title="Mom getting ready..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700086.229167.jpg)
 [<img src="/mom_dad_wedding_images/705700110.202103.jpg" title="Mom getting ready..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700110.202103.jpg)
 [<img src="/mom_dad_wedding_images/705700131.086086.jpg" title="Mom getting ready..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700131.086086.jpg)
-[<img src="/mom_dad_wedding_images/705700156.615221.jpg" title="Mom getting ready..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700156.615221.jpg)
+[<img src="/mom_dad_wedding_images/705700156.615221.jpg" title="My Grandparents, Josephine and Frank." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700156.615221.jpg)
 [<img src="/mom_dad_wedding_images/705700180.611941.jpg" title="Mom getting ready..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700180.611941.jpg)
 [<img src="/mom_dad_wedding_images/705700511.015386.jpg" title="Mom getting ready..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700511.015386.jpg)
 [<img src="/mom_dad_wedding_images/705700530.664106.jpg" title="Mom getting ready..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700530.664106.jpg)
@@ -86,4 +86,19 @@ The catering hall was owned by my family and my Dad worked there with his Father
 [<img src="/mom_dad_wedding_images/705701423.771600.jpg" title="First dance." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701423.771600.jpg)
 [<img src="/mom_dad_wedding_images/705701445.044669.jpg" title="Dancing..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701445.044669.jpg)
 [<img src="/mom_dad_wedding_images/705701463.786923.jpg" title="First dance." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701463.786923.jpg)
+[<img src="/mom_dad_wedding_images/705701484.643058.jpg" title="Wedding dais." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701484.643058.jpg)
+[<img src="/mom_dad_wedding_images/705701510.434758.jpg" title="Flower Girl and Ring Bearer." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701510.434758.jpg)
+[<img src="/mom_dad_wedding_images/705701529.643161.jpg" title="Best Man toast." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701529.643161.jpg)
 
+My Dad was a very skilled Baker, Italian Pastryman, and a graduate of the Wilton School of Cake Decorating. He made and decorated the cake for his wedding.
+
+[<img src="/mom_dad_wedding_images/705701549.411293.jpg" title="Wedding cake." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701549.411293.jpg)
+[<img src="/mom_dad_wedding_images/705701572.376141.jpg" title="A bite of wedding cake." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701572.376141.jpg)
+[<img src="/mom_dad_wedding_images/705701598.457230.jpg" title="Saieva family." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701598.457230.jpg)
+[<img src="/mom_dad_wedding_images/705701621.726687.jpg" title="A kiss at the cake." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701621.726687.jpg)
+[<img src="/mom_dad_wedding_images/705701641.921041.jpg" title="Saieva family." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701641.921041.jpg)
+[<img src="/mom_dad_wedding_images/705701667.141832.jpg" title="My Grandparents, Salvatore and Frances." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701667.141832.jpg)
+[<img src="/mom_dad_wedding_images/705701667.141832.jpg" title="Waving goodnight." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701667.141832.jpg)
+[<img src="/mom_dad_wedding_images/705701710.214858.jpg" title="A new Cadillac." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701710.214858.jpg)
+[<img src="/mom_dad_wedding_images/705701727.830363.jpg" title="A new Cadillac." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701727.830363.jpg)
+[<img src="/mom_dad_wedding_images/705701748.084514.jpg" title="Do not disturb." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701748.084514.jpg)
