@@ -35,3 +35,26 @@ Before being married, my Mom lived with her Mother and Father on Bleeker Street 
 [<img src="/mom_dad_wedding_images/705700530.664106.jpg" title="Mom getting ready..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700530.664106.jpg)
 [<img src="/mom_dad_wedding_images/705700600.721946.jpg" title="Mom getting ready..." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700600.721946.jpg)
 
+My Parent's wedding ceremony was at St. Leonard's Church, Wilson Avenue and Jefferson Street, in Bushwick Brooklyn.
+
+[<img src="/mom_dad_wedding_images/705700622.817588.jpg" title="Dad and his brother." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700622.817588.jpg)
+[<img src="/mom_dad_wedding_images/705700643.603426.jpg" title="At the alter." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700643.603426.jpg)
+[<img src="/mom_dad_wedding_images/705700664.660204.jpg" title="At the alter." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700664.660204.jpg)
+[<img src="/mom_dad_wedding_images/705700693.151892.jpg" title="At the alter." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700693.151892.jpg)
+[<img src="/mom_dad_wedding_images/705700714.735434.jpg" title="At the alter." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700714.735434.jpg)
+[<img src="/mom_dad_wedding_images/705700733.415105.jpg" title="At the alter." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700733.415105.jpg)
+[<img src="/mom_dad_wedding_images/705700754.546400.jpg" title="Walking down the aisle." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700754.546400.jpg)
+[<img src="/mom_dad_wedding_images/705700800.983853.jpg" title="Walking down the aisle." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700800.983853.jpg)
+[<img src="/mom_dad_wedding_images/705700822.591102.jpg" title="Walking down the aisle." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700822.591102.jpg)
+[<img src="/mom_dad_wedding_images/705700840.847240.jpg" title="Pete, Josephine, and Tony Profito." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700840.847240.jpg)
+[<img src="/mom_dad_wedding_images/705700865.738274.jpg" title="On the steps of the church." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700865.738274.jpg)
+[<img src="/mom_dad_wedding_images/705700883.506656.jpg" title="A shower of rice." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700883.506656.jpg)
+[<img src="/mom_dad_wedding_images/705700901.926609.jpg" title="Out of the limo." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700901.926609.jpg)
+[<img src="/mom_dad_wedding_images/705700936.221785.jpg" title="Bridal Party in the studio." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700936.221785.jpg)
+[<img src="/mom_dad_wedding_images/705700956.127815.jpg" title="With the Best Man and Maid of Honor." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700956.127815.jpg)
+[<img src="/mom_dad_wedding_images/705700975.246676.jpg" title="In the studio." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700975.246676.jpg)
+[<img src="/mom_dad_wedding_images/705700997.087121.jpg" title="In the studio." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705700997.087121.jpg)
+[<img src="/mom_dad_wedding_images/705701015.625280.jpg" title="Domenica in the studio." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705701015.625280.jpg)
+[<img src="/mom_dad_wedding_images/705701035.694705.jpg" title="Domenica and Alfonse in the studio." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705701035.694705.jpg)
+[<img src="/mom_dad_wedding_images/705701056.035353.jpg" title="Domenica in the studio." height="45%" width="45%">](https://saieva.com/mom_dad_wedding_images/705701056.035353.jpg)
+
