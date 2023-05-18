@@ -42,6 +42,7 @@ The wedding ceremony was at St. Leonard's Church, Wilson Avenue and Jefferson St
 [<img src="/mom_dad_wedding_images/705700693.151892.jpg" title="At the alter." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700693.151892.jpg)
 [<img src="/mom_dad_wedding_images/705700714.735434.jpg" title="At the alter." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700714.735434.jpg)
 [<img src="/mom_dad_wedding_images/705700733.415105.jpg" title="At the alter." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700733.415105.jpg)
+[<img src="/mom_dad_wedding_images/706026909.373213.jpg" title="My Grandparents (Frank and Josephine) and Uncles (Pete and Tony) Profito." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/706026909.373213.jpg)
 [<img src="/mom_dad_wedding_images/705700754.546400.jpg" title="Walking down the aisle." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700754.546400.jpg)
 [<img src="/mom_dad_wedding_images/705700800.983853.jpg" title="Walking down the aisle." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700800.983853.jpg)
 [<img src="/mom_dad_wedding_images/705700822.591102.jpg" title="Walking down the aisle." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705700822.591102.jpg)
@@ -88,6 +89,7 @@ The catering hall was owned by my family and my Dad with his Father and Brother 
 [<img src="/mom_dad_wedding_images/705701484.643058.jpg" title="Wedding dais." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701484.643058.jpg)
 [<img src="/mom_dad_wedding_images/705701510.434758.jpg" title="Flower Girl and Ring Bearer." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701510.434758.jpg)
 [<img src="/mom_dad_wedding_images/705701529.643161.jpg" title="Best Man toast." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701529.643161.jpg)
+[<img src="/mom_dad_wedding_images/706026838.627232.jpg" title="Bride and Groom toast." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/706026838.627232.jpg)
 
 My Dad was a very skilled Baker, Italian Pastryman, and a graduate of the Wilton School of Cake Decorating. He made and decorated the cake for his wedding.
 
@@ -100,6 +102,7 @@ My Dad was a very skilled Baker, Italian Pastryman, and a graduate of the Wilton
 [<img src="/mom_dad_wedding_images/705701667.141832.jpg" title="Waving goodnight." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701667.141832.jpg)
 [<img src="/mom_dad_wedding_images/705701710.214858.jpg" title="A new Cadillac." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701710.214858.jpg)
 [<img src="/mom_dad_wedding_images/705701727.830363.jpg" title="A new Cadillac." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701727.830363.jpg)
+[<img src="/mom_dad_wedding_images/706026779.420443.jpg" title="In front of Saieva's Parkview Manor." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/706026779.420443.jpg)
 [<img src="/mom_dad_wedding_images/705701748.084514.jpg" title="Do not disturb." height="45%" width="45%" style="padding-bottom:3px">](https://saieva.com/mom_dad_wedding_images/705701748.084514.jpg)
 
 The End.
