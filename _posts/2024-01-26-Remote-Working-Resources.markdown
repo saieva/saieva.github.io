@@ -2,7 +2,7 @@
 layout: post
 title:  "Remote Working References and Resources"
 date:   2024-01-26 06:00:01 -0400
-categories: Remote Management
+categories: Remote
 ---
 
 **37Signals**
