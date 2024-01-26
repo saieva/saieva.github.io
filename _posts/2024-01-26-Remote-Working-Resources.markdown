@@ -33,6 +33,11 @@ Google Asked 5,600 Employees About How They Work. Tight-Knit, Productive Teams D
 What Google Learned From Its Quest to Build the Perfect Team
 [https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html][https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html]
 
+**Microsoft**
+
+Onboarding new Microsoft employees with Microsoft Teams while working remotely
+[https://www.microsoft.com/insidetrack/blog/onboarding-new-microsoft-employees-with-microsoft-teams-while-working-remotely/][https://www.microsoft.com/insidetrack/blog/onboarding-new-microsoft-employees-with-microsoft-teams-while-working-remotely/]
+
 **ThoughtWorks**
 
 The remote work playbook
@@ -40,5 +45,37 @@ The remote work playbook
 
 How to do effective video calls
 [https://martinfowler.com/articles/effective-video-calls.html][https://martinfowler.com/articles/effective-video-calls.html]
+
+**Trello**
+
+Dispelling remote work myths: tips & best practices
+[https://trello.com/guide/remote-work/tips-best-practices][https://trello.com/guide/remote-work/tips-best-practices]
+
+The 10 biggest misconceptions of remote work
+[http://blog.trello.com/company-remote-work-myths][http://blog.trello.com/company-remote-work-myths]
+
+Managers: here’s a 7-step practical guide to leading a remote team
+[http://blog.trello.com/how-to-manage-a-remote-team][http://blog.trello.com/how-to-manage-a-remote-team]
+
+**Atlassian**
+
+Embracing remote teamwork
+[https://www.atlassian.com/team-playbook/examples/remote-teamwork][https://www.atlassian.com/team-playbook/examples/remote-teamwork]
+
+**GitLab**
+
+The Remote Playbook
+[https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf][https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf]
+
+**TopTal**
+
+The Suddenly Remote Playbook
+[https://www.toptal.com/remote-work-playbook][https://www.toptal.com/remote-work-playbook]
+
+**LinkedIn**
+
+Scrap Your Work From Home Policy by Pam Ross
+[https://www.linkedin.com/pulse/20141204164621-12715656-scrap-your-work-from-home-policy/][https://www.linkedin.com/pulse/20141204164621-12715656-scrap-your-work-from-home-policy/]
+
 
 [37SignalsWebsiteURL]: https://www.37Signals.com
