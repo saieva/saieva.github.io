@@ -5,7 +5,15 @@ date:   2024-01-26 06:00:01 -0400
 categories: Remote Management
 ---
 
-IMPORTANT: This post is in draft form, updates are not yet completed.
+### *IMPORTANT: This post is in draft form, updates are not yet completed.*
+
+The list of resouces on this page should be useful to many people in a variety of circumstances:
+
+- if you are a manager responsibile for a distributed team.
+- an individual wanting to improve your effectivenss when working independently.
+- a CEO/CTO/CIO or other C-level executive trying to get your head around how much face-to-face time you need with your employess,
+and how much you think they need with each other.
+- an HR Manager tryig to navigate through a thick fog of emotions whille being empathetic to creating company policies that are fair to everyone.
 
 #### **37Signals**
 
