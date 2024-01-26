@@ -15,24 +15,25 @@ The list of resouces on this page should be useful to many people in a variety o
 and how much you think they need with each other.
 - an HR Manager tryig to navigate through a thick fog of emotions whille being empathetic to creating company policies that are fair to everyone.
 
-The materials are organized by their sources. There are playbooks that are more prescriptive, articles that offer how-to methods, blog posts
-that are opinion oriented, and a book that attempts to tie together the big picture of managing a remote company with the details of how different
-tools are used to collaborate. Each source includes some commentary to help you decide where to start or if a particular item is worth your time.
+The materials are organized by their sources. There are playbooks that are more prescriptive, articles that offer how-to methods, opinion oriented
+blog posts, and a book that attempts to tie together the big picture of managing a remote company with the details of how different tools are used to
+collaborate. Each source includes some commentary to help you decide where to start or if a particular item is worth your time.
 
-It's unlikely that any one source will give you all the answers for your situation. If you're trying to improve an existing and already functioning
+It's unlikely that any one source will give you all the answers. If you're trying to improve an existing and already functioning
 remote working model, then you may be able to pick-and-choose ideas from blog posts and articles. If you're starting from scratch, the book and playbook
-references are likely what you need. You know your situation best so choose the materials that best if the scenarios on your team or in your company.
+references are likely what you'll need. You know your situation so choose materials that fit the scenarios on your team or in your company the best.
 
-The materials from 37Signals are different from the rest. Jason Fried (CEO) and David Heinemeier Hansson (CTO) operate a remote only company and have
-written extensively on their management approach. If you're looking for novel ideas a different take on remote work, deep-dive into the 37Signals materials.
+Something to know, the references from 37Signals are different. Jason Fried (CEO) and David Heinemeier Hansson (CTO) operate a remote only company and have
+written extensively on their management approach. If you're looking for novel ideas and a different take on remote work, deep-dive into what 37Signals
+has to say.
 
 #### **37Signals**
 
 [37Signals][37SignalsWebsiteURL] is the company that develops and sells the [Basecamp][BasecampWebsiteURL] project management system,
-[HEY][HEYWebsiteURL] email and calendar, and the [ONCE][ONCEWebsiteURL] set of applications based on a pay-once and self-host purchase model.
-Their company operates on a completely remote basis and they have a lot to say about the benefits of working this way. So much so that they have
-written a book and many blog posts about their viewpoints and remote working methods. The approach is (partly) summarized by idea #11 from the
-[37Signals][37SignalsWebsiteURL] Website:
+[HEY][HEYWebsiteURL] email and calendar, and the [ONCE][ONCEWebsiteURL] set of applications; millions of people rely on software from 37Signals to
+run their businesses. Their company operates on a completely remote basis and they have a lot to say about the benefits of working this way. So much so
+that they have written a book and many blog posts about their viewpoints and remote working methods. The approach is (partly) summarized by idea #11
+from the [37Signals][37SignalsWebsiteURL] Website:
 
 > *Don't emulate the office*\
 > Work remotely, not locally apart. Don’t just have the same meetings on Zoom, have fewer meetings.
