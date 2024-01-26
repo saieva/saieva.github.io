@@ -7,7 +7,7 @@ categories: Remote Management
 
 IMPORTANT: This post is in draft form, updates are not yet completed.
 
-**37Signals**
+# **37Signals**
 
 [37Signals][37SignalsWebsiteURL] is the company that develops and sells the [Basecamp][BasecampWebsiteURL] project management system,
 [HEY][HEYWebsiteURL] email and calendar, and the [ONCE][ONCEWebsiteURL] set of applications based on a pay-once and self-host purchase model.
@@ -15,27 +15,26 @@ Their company operates on a completely remote basis and they have a lot to say a
 written a book and many blog posts about their viewpoints and remote working methods. The approach is (partly) summarized by idea #11 from the
 [37Signals][37SignalsWebsiteURL] Website:
 
-> *Don't emulate the office*
->
+> *Don't emulate the office*\
 > Work remotely, not locally apart. Don’t just have the same meetings on Zoom, have fewer meetings.
 > Rather than discussing everything in real-time, communicate asynchronously instead.
 > Rather than feel the need to know where everyone is, let go and trust more.
 > Don’t try to emulate the office and everything it stands for — stand against it.
 
-Remote: Office Not Required\
+# Remote: Office Not Required\
 [https://www.amazon.com/Remote-Office-Required-Jason-Fried-ebook/dp/B00C0ALZ0W/](https://www.amazon.com/Remote-Office-Required-Jason-Fried-ebook/dp/B00C0ALZ0W/)
 
-How We Structure Our Work and Teams\
+## How We Structure Our Work and Teams\
 [https://basecamp.com/articles/how-we-structure-our-teams](https://basecamp.com/articles/how-we-structure-our-teams)
 
-It's not remote if you have to go to the office\
+### It's not remote if you have to go to the office\
 [https://world.hey.com/jason/it-s-not-remote-if-you-have-to-go-to-the-office-f76dce6e](https://world.hey.com/jason/it-s-not-remote-if-you-have-to-go-to-the-office-f76dce6e)
 
-The Presence Prison\
+#### The Presence Prison\
 [https://world.hey.com/jason/the-presence-prison-69608e0f](https://world.hey.com/jason/the-presence-prison-69608e0f)
 
 
-**Google**
+## **Google**
 
 Working together when we’re not together\
 [https://blog.google/inside-google/working-google/working-together-when-were-not-together/](https://blog.google/inside-google/working-google/working-together-when-were-not-together/)
@@ -49,12 +48,12 @@ Google Asked 5,600 Employees About How They Work. Tight-Knit, Productive Teams D
 What Google Learned From Its Quest to Build the Perfect Team\
 [https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
-**Microsoft**
+### **Microsoft**
 
 Onboarding new Microsoft employees with Microsoft Teams while working remotely\
 [https://www.microsoft.com/insidetrack/blog/onboarding-new-microsoft-employees-with-microsoft-teams-while-working-remotely/](https://www.microsoft.com/insidetrack/blog/onboarding-new-microsoft-employees-with-microsoft-teams-while-working-remotely/)
 
-**ThoughtWorks**
+#### **ThoughtWorks**
 
 The remote work playbook\
 [https://www.thoughtworks.com/content/dam/thoughtworks/documents/whitepaper/tw_whitepaper_remote_work_playbook.pdf](https://www.thoughtworks.com/content/dam/thoughtworks/documents/whitepaper/tw_whitepaper_remote_work_playbook.pdf)
@@ -62,7 +61,7 @@ The remote work playbook\
 How to do effective video calls\
 [https://martinfowler.com/articles/effective-video-calls.html](https://martinfowler.com/articles/effective-video-calls.html)
 
-**Trello**
+### **Trello**
 
 Dispelling remote work myths: tips & best practices\
 [https://trello.com/guide/remote-work/tips-best-practices](https://trello.com/guide/remote-work/tips-best-practices)
@@ -73,22 +72,22 @@ The 10 biggest misconceptions of remote work\
 Managers: here’s a 7-step practical guide to leading a remote team\
 [http://blog.trello.com/how-to-manage-a-remote-team](http://blog.trello.com/how-to-manage-a-remote-team)
 
-**Atlassian**
+### **Atlassian**
 
 Embracing remote teamwork\
 [https://www.atlassian.com/team-playbook/examples/remote-teamwork](https://www.atlassian.com/team-playbook/examples/remote-teamwork)
 
-**GitLab**
+### **GitLab**
 
 The Remote Playbook\
 [https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf](https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf)
 
-**TopTal**
+### **TopTal**
 
 The Suddenly Remote Playbook\
 [https://www.toptal.com/remote-work-playbook](https://www.toptal.com/remote-work-playbook)
 
-**LinkedIn**
+### **Other Articles and Posts**
 
 Scrap Your Work From Home Policy by Pam Ross\
 [https://www.linkedin.com/pulse/20141204164621-12715656-scrap-your-work-from-home-policy/](https://www.linkedin.com/pulse/20141204164621-12715656-scrap-your-work-from-home-policy/)
