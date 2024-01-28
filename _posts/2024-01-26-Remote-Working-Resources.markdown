@@ -48,15 +48,20 @@ Their approach is (partly) summarized by idea #11 from the [37Signals][37Signals
 
 **How We Structure Our Work and Teams**\
 [https://basecamp.com/articles/how-we-structure-our-teams](https://basecamp.com/articles/how-we-structure-our-teams)
+> We landed on this process after a decade of refinement. Just like we’re always iterating on our product work,
+> we’re also always iterating on how our company works. We consider our company a product too.
 
 **Shape Up: Stop Running in Circles and Ship Work that Matters**
 [https://basecamp.com/shapeup](https://basecamp.com/shapeup)
 
 **It's not remote if you have to go to the office**\
 [https://world.hey.com/jason/it-s-not-remote-if-you-have-to-go-to-the-office-f76dce6e](https://world.hey.com/jason/it-s-not-remote-if-you-have-to-go-to-the-office-f76dce6e)
+> To be clear, there's nothing wrong with being required to work in an office. If that's the policy, and you like the company,
+> office, and commute, it may, in fact, be the best fit.
 
 **The Presence Prison**\
 [https://world.hey.com/jason/the-presence-prison-69608e0f](https://world.hey.com/jason/the-presence-prison-69608e0f)
+> Everyone’s status should be implicit: I’m trying to do my job, please respect my time and attention.
 
 #### **Google**
 
