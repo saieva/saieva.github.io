@@ -48,8 +48,8 @@ Their approach is (partly) summarized by idea #11 from the [37Signals][37Signals
 
 **How We Structure Our Work and Teams**\
 [https://basecamp.com/articles/how-we-structure-our-teams](https://basecamp.com/articles/how-we-structure-our-teams)
-> We landed on this process after a decade of refinement. Just like we’re always iterating on our product work,
-> we’re also always iterating on how our company works. We consider our company a product too.
+   > We landed on this process after a decade of refinement. Just like we’re always iterating on our product work,
+   > we’re also always iterating on how our company works. We consider our company a product too.
 
 **Shape Up: Stop Running in Circles and Ship Work that Matters**
 [https://basecamp.com/shapeup](https://basecamp.com/shapeup)
