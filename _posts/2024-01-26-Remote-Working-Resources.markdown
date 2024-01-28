@@ -49,6 +49,9 @@ Their approach is (partly) summarized by idea #11 from the [37Signals][37Signals
 **How We Structure Our Work and Teams**\
 [https://basecamp.com/articles/how-we-structure-our-teams](https://basecamp.com/articles/how-we-structure-our-teams)
 
+**Shape Up: Stop Running in Circles and Ship Work that Matters**
+[https://basecamp.com/shapeup](https://basecamp.com/shapeup)
+
 **It's not remote if you have to go to the office**\
 [https://world.hey.com/jason/it-s-not-remote-if-you-have-to-go-to-the-office-f76dce6e](https://world.hey.com/jason/it-s-not-remote-if-you-have-to-go-to-the-office-f76dce6e)
 
