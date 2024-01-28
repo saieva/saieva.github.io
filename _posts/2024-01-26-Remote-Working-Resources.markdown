@@ -37,7 +37,7 @@ their software to run their businesses. The company operates on a completely rem
 of working this way. They've written a book and many blog posts about their viewpoints and remote working methods.
 Their approach is (partly) summarized by idea #11 from the [37Signals][37SignalsWebsiteURL] Website:
 
-> *Don't emulate the office*\
+> Don't emulate the office\
 > Work remotely, not locally apart. Don’t just have the same meetings on Zoom, have fewer meetings.
 > Rather than discussing everything in real-time, communicate asynchronously instead.
 > Rather than feel the need to know where everyone is, let go and trust more.
@@ -63,17 +63,26 @@ Buddies of Distributed Employees, Managers, and Leaders.
 
 **Working together when we’re not together**\
 [https://blog.google/inside-google/working-google/working-together-when-were-not-together/](https://blog.google/inside-google/working-google/working-together-when-were-not-together/)
+> At the same time, we did hear from Googlers that working with colleagues across the globe can make it more difficult to establish
+> connections — in many senses of the word. Coordinating schedules across time zones and booking a conference room for a video chat takes
+> more logistical brain power than dropping by a coworkers desk for a meeting over coffee. The technology itself can also be limiting —
+> glitchy video or faulty sound makes impromptu conversations that help teammates get to know, and trust each other, seem like more
+>trouble than they’re worth.
 
 **Google Asked 5,600 Employees About How They Work. Tight-Knit, Productive Teams Do 3 Things Differently**\
 [https://www.inc.com/betsy-mikel/google-asked-5600-of-its-employees-about-their-work-tight-knit-productive-teams-did-3-things-differently.html](https://www.inc.com/betsy-mikel/google-asked-5600-of-its-employees-about-their-work-tight-knit-productive-teams-did-3-things-differently.html)
+> But if your video and microphone are always muted, people can't see or hear if you're engaged in the meeting.
+> Gilrane recommends that you put in a little extra effort to reinforce that you're listening.
 
 **What Google Learned From Its Quest to Build the Perfect Team**\
 [https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+> After looking at over a hundred groups for more than a year, Project Aristotle researchers concluded that understanding and
+> influencing group norms were the keys to improving Google’s teams.
 
 **Google Distributed Work Playbooks**\
 [http://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf](http://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf)
 
-**Google Distributed Work @Google Playbooks (the Place, People, and Practices**\
+**Google Distributed Work @Google Playbooks (the Place, People, and Practices)**\
 [https://blog.google/documents/53/FINAL_External_Distributed_Work__Google_Playbooks.pdf](https://blog.google/documents/53/FINAL_External_Distributed_Work__Google_Playbooks.pdf)
 
 #### **Microsoft**
