@@ -58,7 +58,8 @@ Their approach is (partly) summarized by idea #11 from the [37Signals][37Signals
 #### **Google**
 
 Google's People Innovation Lab took a more scientific approach to remote work and managing distributed teams. Their research analyzed the make-up
-of meetings involing two or more buildings, cities, and timezones.
+of meetings involing two or more buildings, cities, and timezones. A set of 1-page playbooks were written for Distributed Employees,
+Buddies of Distributed Employees, Managers, and Leaders.
 
 **Working together when we’re not together**\
 [https://blog.google/inside-google/working-google/working-together-when-were-not-together/](https://blog.google/inside-google/working-google/working-together-when-were-not-together/)
