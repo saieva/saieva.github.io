@@ -167,6 +167,9 @@ alignment, and team empathy.
 **Scrap Your Work From Home Policy by Pam Ross**\
 [https://www.linkedin.com/pulse/20141204164621-12715656-scrap-your-work-from-home-policy/](https://www.linkedin.com/pulse/20141204164621-12715656-scrap-your-work-from-home-policy/)
 
+**TopTal's The Suddenly Remote Playbook**\
+[https://www.toptal.com/remote-work-playbook](https://www.toptal.com/remote-work-playbook)
+
 [37SignalsWebsiteURL]: https://www.37Signals.com
 [BasecampWebsiteURL]: https://www.Basecamp.com
 [HEYWebsiteURL]: https://www.HEY.com
