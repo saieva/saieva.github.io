@@ -7,7 +7,7 @@ categories: Remote Management
 
 ### *IMPORTANT: This post is in draft form, updates are not yet completed.*
 
-The list of resouces on this page should be useful to many people in a variety of circumstances:
+The list of resources on this page will be useful in a variety of circumstances:
 
 - if you are a manager responsibile for a distributed team.
 - an individual wanting to improve your effectivenss when working independently.
@@ -25,8 +25,8 @@ remote working model, then you may be able to pick-and-choose ideas from blog po
 the book and playbook references are likely what you'll need. You know your situation so choose materials that fit the scenarios on
 your team or in your company the best.
 
-Something to know, the references from 37Signals are different. Jason Fried (CEO) and David Heinemeier Hansson (CTO) operate a
-*remote only*company and have written extensively on their management approach. If you're looking for novel ideas and a different
+Something to know, the references from 37Signals are different from others. Jason Fried (CEO) and David Heinemeier Hansson (CTO) operate a
+*remote only* company and have written extensively on their management approach. If you're looking for novel ideas and a different
 take on remote work, deep-dive into what 37Signals have to say.
 
 #### **37Signals**
@@ -51,8 +51,17 @@ Their approach is (partly) summarized by idea #11 from the [37Signals][37Signals
 > We landed on this process after a decade of refinement. Just like we’re always iterating on our product work,
 > we’re also always iterating on how our company works. We consider our company a product too.
 
-**Shape Up: Stop Running in Circles and Ship Work that Matters**
+**Shape Up: Stop Running in Circles and Ship Work that Matters**\
+
+Shape Up is a free online book describing 37Signal’s methodology. It goes hand-in-hand with their way of managing projects as a remote only company.
+
 [https://basecamp.com/shapeup](https://basecamp.com/shapeup)
+
+> This book is a guide to how we do product development at Basecamp. It’s also a toolbox full of techniques that you can
+> apply in your own way to your own process.
+>
+> Whether you’re a founder, CTO, product manager, designer, or developer, you’re probably here because of some common
+> challenges that all software companies have to face.
 
 **It's not remote if you have to go to the office**\
 [https://world.hey.com/jason/it-s-not-remote-if-you-have-to-go-to-the-office-f76dce6e](https://world.hey.com/jason/it-s-not-remote-if-you-have-to-go-to-the-office-f76dce6e)
@@ -100,26 +109,64 @@ Buddies of Distributed Employees, Managers, and Leaders.
 
 #### **ThoughtWorks**
 
+ThoughtWorks is a technology consultancy of cross-functional strategies, designers, data engineers, and developers.
+They specialize in Agile methods for project management and application development.
+
+The ThoughtWorks playbook considers infrastructure needed for remote work, virtual communications, ways of working,
+and managing stakeholder expectations. A 4-stage timeline is outlined to go-remote.
+
+Martin Fowler, Chief Scientist at ThoughtWorks, authored the blog article. It’s contains a very practical and
+sensible list of do’s and don’ts for collaborating on video calls.
+
 **The remote work playbook**\
+
+> For remote working to be sustainable, it is critical that we consider the employee experience; becoming deliberate
+> about how we engage, motivate and support our employees.
+
 [https://www.thoughtworks.com/content/dam/thoughtworks/documents/whitepaper/tw_whitepaper_remote_work_playbook.pdf](https://www.thoughtworks.com/content/dam/thoughtworks/documents/whitepaper/tw_whitepaper_remote_work_playbook.pdf)
 
 **How to do effective video calls**\
+
+> As we got more comfortable with video, we took more opportunity to collaborate with video meetings rather
+> than trying to get everyone together in one place.
+
 [https://martinfowler.com/articles/effective-video-calls.html](https://martinfowler.com/articles/effective-video-calls.html)
 
-#### **Trello**
+#### **Trello and Atlassian**
+
+Trello is a Web-based kanban style board for managing projects using Agile methods. The product was initially
+developed by Fog Creek Software.
+
+Atlassian, the developers of the Jira and Confluence Agile project management applications, purchased Trello
+which is now part of their suite of SaaS (Software-as-a-Service) products.
+
+As you might expect, companies of project management software used by millions of people have something to say about
+working remotely. The articles here are practical references for you to consider.
 
 **Dispelling remote work myths: tips & best practices**\
+
+> Effective remote work starts at the top. When company culture leaders correct non-remote friendly behaviors and
+> put inclusive processes in place, the effects trickle down into a successful experience for everyone.
+
 [https://trello.com/guide/remote-work/tips-best-practices](https://trello.com/guide/remote-work/tips-best-practices)
 
 **The 10 biggest misconceptions of remote work**\
+
+> It’s time to put stereotypes to rest. For the naysayers of remote work, here are 10 debunked myths about this growing sector.
+
 [http://blog.trello.com/company-remote-work-myths](http://blog.trello.com/company-remote-work-myths)
 
 **Managers: here’s a 7-step practical guide to leading a remote team**\
+
+> It might feel difficult, even unintuitive, at first, but it’s our job as managers to create a great place to work.
+
 [http://blog.trello.com/how-to-manage-a-remote-team](http://blog.trello.com/how-to-manage-a-remote-team)
 
-#### **Atlassian**
-
 **Embracing remote teamwork**\
+
+> Explore self-guided workshops called Plays that can help your remote team create new rituals that improve communication,
+alignment, and team empathy.
+
 [https://www.atlassian.com/team-playbook/examples/remote-teamwork](https://www.atlassian.com/team-playbook/examples/remote-teamwork)
 
 #### **GitLab**
