@@ -159,7 +159,7 @@ working remotely. The articles here are practical references for you to consider
 
 #### **GitLab**
 
-GitLab is a software development tools company used for larger project and within larger sized companies.
+GitLab is a software development tools company used for large project and within larger sized companies.
 
 **The Remote Playbook**\
 [https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf](https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf)
