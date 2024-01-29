@@ -5,8 +5,6 @@ date:   2024-01-26 06:00:01 -0400
 categories: Remote Management
 ---
 
-### *IMPORTANT: This post is in draft form, updates are not yet completed.*
-
 The list of resources on this page will be useful in a variety of circumstances:
 
 - if you are a manager responsibile for a distributed team.
