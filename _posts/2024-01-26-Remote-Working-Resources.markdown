@@ -119,18 +119,14 @@ Martin Fowler, Chief Scientist at ThoughtWorks, authored the blog article. It’
 sensible list of do’s and don’ts for collaborating on video calls.
 
 **The remote work playbook**\
-
+[https://www.thoughtworks.com/content/dam/thoughtworks/documents/whitepaper/tw_whitepaper_remote_work_playbook.pdf](https://www.thoughtworks.com/content/dam/thoughtworks/documents/whitepaper/tw_whitepaper_remote_work_playbook.pdf)
 > For remote working to be sustainable, it is critical that we consider the employee experience; becoming deliberate
 > about how we engage, motivate and support our employees.
 
-[https://www.thoughtworks.com/content/dam/thoughtworks/documents/whitepaper/tw_whitepaper_remote_work_playbook.pdf](https://www.thoughtworks.com/content/dam/thoughtworks/documents/whitepaper/tw_whitepaper_remote_work_playbook.pdf)
-
 **How to do effective video calls**\
-
+[https://martinfowler.com/articles/effective-video-calls.html](https://martinfowler.com/articles/effective-video-calls.html)
 > As we got more comfortable with video, we took more opportunity to collaborate with video meetings rather
 > than trying to get everyone together in one place.
-
-[https://martinfowler.com/articles/effective-video-calls.html](https://martinfowler.com/articles/effective-video-calls.html)
 
 #### **Trello and Atlassian**
 
@@ -144,30 +140,22 @@ As you might expect, companies of project management software used by millions o
 working remotely. The articles here are practical references for you to consider.
 
 **Dispelling remote work myths: tips & best practices**\
-
+[https://trello.com/guide/remote-work/tips-best-practices](https://trello.com/guide/remote-work/tips-best-practices)
 > Effective remote work starts at the top. When company culture leaders correct non-remote friendly behaviors and
 > put inclusive processes in place, the effects trickle down into a successful experience for everyone.
 
-[https://trello.com/guide/remote-work/tips-best-practices](https://trello.com/guide/remote-work/tips-best-practices)
-
 **The 10 biggest misconceptions of remote work**\
-
+[http://blog.trello.com/company-remote-work-myths](http://blog.trello.com/company-remote-work-myths)
 > It’s time to put stereotypes to rest. For the naysayers of remote work, here are 10 debunked myths about this growing sector.
 
-[http://blog.trello.com/company-remote-work-myths](http://blog.trello.com/company-remote-work-myths)
-
 **Managers: here’s a 7-step practical guide to leading a remote team**\
-
+[http://blog.trello.com/how-to-manage-a-remote-team](http://blog.trello.com/how-to-manage-a-remote-team)
 > It might feel difficult, even unintuitive, at first, but it’s our job as managers to create a great place to work.
 
-[http://blog.trello.com/how-to-manage-a-remote-team](http://blog.trello.com/how-to-manage-a-remote-team)
-
 **Embracing remote teamwork**\
-
+[https://www.atlassian.com/team-playbook/examples/remote-teamwork](https://www.atlassian.com/team-playbook/examples/remote-teamwork)
 > Explore self-guided workshops called Plays that can help your remote team create new rituals that improve communication,
 alignment, and team empathy.
-
-[https://www.atlassian.com/team-playbook/examples/remote-teamwork](https://www.atlassian.com/team-playbook/examples/remote-teamwork)
 
 #### **GitLab**
 
