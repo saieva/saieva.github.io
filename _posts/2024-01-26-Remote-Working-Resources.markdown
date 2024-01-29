@@ -162,11 +162,6 @@ alignment, and team empathy.
 **The Remote Playbook**\
 [https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf](https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf)
 
-#### **TopTal**
-
-**The Suddenly Remote Playbook**\
-[https://www.toptal.com/remote-work-playbook](https://www.toptal.com/remote-work-playbook)
-
 #### **Other Articles and Posts**
 
 **Scrap Your Work From Home Policy by Pam Ross**\
