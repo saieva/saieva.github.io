@@ -5,6 +5,9 @@ date:   2024-01-26 06:00:01 -0400
 categories: Remote Management
 ---
 
+It's not easy to manage a distributed team. And it's not easy working with a manager, or with colleagues, you've never met.
+Fortunately, these are common problems that have been solved (in somewhat differnt ways) by several companies.
+
 The list of resources on this page will be useful in a variety of circumstances:
 
 - if you are a manager responsibile for a distributed team.
