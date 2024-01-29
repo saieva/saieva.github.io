@@ -155,12 +155,15 @@ working remotely. The articles here are practical references for you to consider
 **Embracing remote teamwork**\
 [https://www.atlassian.com/team-playbook/examples/remote-teamwork](https://www.atlassian.com/team-playbook/examples/remote-teamwork)
 > Explore self-guided workshops called Plays that can help your remote team create new rituals that improve communication,
-alignment, and team empathy.
+> alignment, and team empathy.
 
 #### **GitLab**
 
+GitLab is a software development tools company used for larger project and within larger sized companies.
+
 **The Remote Playbook**\
 [https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf](https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf)
+> Remote forces you to do the things you should be doing way earlier and better.
 
 #### **Other Articles and Posts**
 
