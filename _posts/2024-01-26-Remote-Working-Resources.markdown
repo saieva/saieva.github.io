@@ -6,7 +6,7 @@ categories: Remote Management
 ---
 
 It's not easy to manage a distributed team. And it's not easy working with a manager, or with colleagues, you've never met.
-Fortunately, these are common problems that have been solved (in somewhat differnt ways) by several companies.
+Fortunately, these are common problems that have been solved (in somewhat different ways) by several companies.
 
 The list of resources on this page will be useful in a variety of circumstances:
 
@@ -54,7 +54,8 @@ Their approach is (partly) summarized by idea #11 from the [37Signals][37Signals
 
 **Shape Up: Stop Running in Circles and Ship Work that Matters**\
 
-Shape Up is a free online book describing 37Signal’s methodology. It goes hand-in-hand with their way of managing projects as a remote only company.
+Shape Up is a free online book describing the 37Signals design, delivery, and project methodology. It goes hand-in-hand with
+their way of managing projects as a remote only company.
 
 [https://basecamp.com/shapeup](https://basecamp.com/shapeup)
 
@@ -76,7 +77,7 @@ Shape Up is a free online book describing 37Signal’s methodology. It goes hand
 #### **Google**
 
 Google's People Innovation Lab took a more scientific approach to remote work and managing distributed teams. Their research analyzed the make-up
-of meetings involing two or more buildings, cities, and timezones. A set of 1-page playbooks were written for Distributed Employees,
+of meetings involving two or more buildings, cities, and timezones. A set of 1-page playbooks were written for Distributed Employees,
 Buddies of Distributed Employees, Managers, and Leaders.
 
 **Working together when we’re not together**\
@@ -105,8 +106,28 @@ Buddies of Distributed Employees, Managers, and Leaders.
 
 #### **Microsoft**
 
-**Onboarding new Microsoft employees with Microsoft Teams while working remotely**\
-[https://www.microsoft.com/insidetrack/blog/onboarding-new-microsoft-employees-with-microsoft-teams-while-working-remotely/](https://www.microsoft.com/insidetrack/blog/onboarding-new-microsoft-employees-with-microsoft-teams-while-working-remotely/)
+**How Microsoft approaches hybrid work: A new guide to help our customers**\
+[https://www.microsoft.com/en-us/microsoft-365/blog/2021/05/21/how-microsoft-approaches-hybrid-work-a-new-guide-to-help-our-customers](https://www.microsoft.com/en-us/microsoft-365/blog/2021/05/21/how-microsoft-approaches-hybrid-work-a-new-guide-to-help-our-customers)
+>There’s no doubt that this shift to a more flexible approach to work will be an enormous undertaking for every leader and
+> every organization. That is certainly true for us as we create a plan to implement a hybrid work model for our more than
+> 160,000 employees across the globe.
+
+**What is Hybrid work?**\
+[https://www.microsoft.com/en-us/microsoft-teams/hybrid-work-from-home](https://www.microsoft.com/en-us/microsoft-teams/hybrid-work-from-home)
+> Hybrid work describes when people work together, both online and in person, at any time from anywhere—at home,
+> remotely, or from an office.
+
+**Hybrid Workplace Flexibility (HWF) Guide**\
+[https://clouddamcdnprodep.azureedge.net/gdc/gdcNr7VEG/original](https://clouddamcdnprodep.azureedge.net/gdc/gdcNr7VEG/original)
+> All employees have a work site, a work location, and work hours. A hybrid workplace assumes a mix of
+> workstyles across all three dimensions for our employees as well as within our organizations.
+
+**Hybrid Work: A Guide for Business Leaders**\
+[https://clouddamcdnprodep.azureedge.net/gdc/gdcSwn4Qe/original](https://clouddamcdnprodep.azureedge.net/gdc/gdcSwn4Qe/original)
+> Hybrid work requires a deliberate, thoughtful approach. Leaders need a strategy that activates the whole organization and
+> puts forth a plan to embrace new cultural norms with technologies designed for the hybrid world –
+> ones that bridge the digital and physical, ensuring every employee can engage and contribute, regardless of where,
+> when or how they’re working.
 
 #### **ThoughtWorks**
 
@@ -138,7 +159,7 @@ Atlassian, the developers of the Jira and Confluence Agile project management ap
 which is now part of their suite of SaaS (Software-as-a-Service) products.
 
 As you might expect, companies of project management software used by millions of people have something to say about
-working remotely. The articles here are practical references for you to consider.
+working remotely. The articles here are practical references to consider.
 
 **Dispelling remote work myths: tips & best practices**\
 [https://trello.com/guide/remote-work/tips-best-practices](https://trello.com/guide/remote-work/tips-best-practices)
@@ -160,7 +181,8 @@ working remotely. The articles here are practical references for you to consider
 
 #### **GitLab**
 
-GitLab is a software development tools company used for large project and within larger sized companies.
+GitLab is a software development tools company used for large projects and within larger sized companies. Software developers
+use GitLab tools to build and deliver applications using secure and compliant methods.
 
 **The Remote Playbook**\
 [https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf](https://about.gitlab.com/resources/downloads/ebook-remote-playbook.pdf)
