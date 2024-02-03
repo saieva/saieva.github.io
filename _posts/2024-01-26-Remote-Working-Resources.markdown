@@ -119,7 +119,7 @@ in considering scenarios when people request changes to their work locations and
 
 **What is Hybrid work?**\
 [https://www.microsoft.com/en-us/microsoft-teams/hybrid-work-from-home](https://www.microsoft.com/en-us/microsoft-teams/hybrid-work-from-home)
-> Hybrid work describes when people work together, both online and in person, at any time from anywhere—at home,
+> Hybrid work describes when people work together, both online and in person, at any time from anywhere — at home,
 > remotely, or from an office.
 
 **Hybrid Workplace Flexibility (HWF) Guide**\
@@ -130,9 +130,8 @@ in considering scenarios when people request changes to their work locations and
 **Hybrid Work: A Guide for Business Leaders**\
 [https://clouddamcdnprodep.azureedge.net/gdc/gdcSwn4Qe/original](https://clouddamcdnprodep.azureedge.net/gdc/gdcSwn4Qe/original)
 > Hybrid work requires a deliberate, thoughtful approach. Leaders need a strategy that activates the whole organization and
-> puts forth a plan to embrace new cultural norms with technologies designed for the hybrid world –
-> ones that bridge the digital and physical, ensuring every employee can engage and contribute, regardless of where,
-> when or how they’re working.
+> puts forth a plan to embrace new cultural norms with technologies designed for the hybrid world – ones that bridge the digital and
+> physical, ensuring every employee can engage and contribute, regardless of where, when or how they’re working.
 
 #### **ThoughtWorks**
 
@@ -197,9 +196,15 @@ use GitLab tools to build and deliver applications using secure and compliant me
 
 **Scrap Your Work From Home Policy by Pam Ross**\
 [https://www.linkedin.com/pulse/20141204164621-12715656-scrap-your-work-from-home-policy/](https://www.linkedin.com/pulse/20141204164621-12715656-scrap-your-work-from-home-policy/)
+> If I work in retail and need to serve customers, I obviously can't work from home. If my work is done on a certain machine
+> in a factory, then I need to be in the factory to get my work done. But if my work is done on a computer, in the age of
+> the "cloud", then what difference does it make if I work from home, from a Starbucks, or from the office?
 
 **TopTal's The Suddenly Remote Playbook**\
 [https://www.toptal.com/remote-work-playbook](https://www.toptal.com/remote-work-playbook)
+> Prompted by urgent need and requests, we are going to share how we do it. This Playbook offers learnings across
+> all areas of the remote work experience, from Slack best practices and Zoom etiquette to advice for managers of
+> remote teams and, critically, how to create a culture and work environment built on trust.
 
 [37SignalsWebsiteURL]: https://www.37Signals.com
 [BasecampWebsiteURL]: https://www.Basecamp.com
