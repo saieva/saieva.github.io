@@ -106,6 +106,10 @@ Buddies of Distributed Employees, Managers, and Leaders.
 
 #### **Microsoft**
 
+Microsoft calls their approach *hybrid work* which considers how people work in-person, remotely from another office,
+at home, and when using online methods. Their *"guides,"* which are written to be shared with customers, are extensive
+in considering scenarios when people request changes to their work locations and schedules.
+
 **How Microsoft approaches hybrid work: A new guide to help our customers**\
 [https://www.microsoft.com/en-us/microsoft-365/blog/2021/05/21/how-microsoft-approaches-hybrid-work-a-new-guide-to-help-our-customers](https://www.microsoft.com/en-us/microsoft-365/blog/2021/05/21/how-microsoft-approaches-hybrid-work-a-new-guide-to-help-our-customers)
 >There’s no doubt that this shift to a more flexible approach to work will be an enormous undertaking for every leader and
