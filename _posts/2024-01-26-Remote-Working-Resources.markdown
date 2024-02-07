@@ -11,11 +11,11 @@ policies, cultures, and expectations from traditional ways of working.
 
 The list of resources on this page will be useful in a variety of circumstances:
 
-- if you are a manager responsibile for a distributed team.
-- an individual wanting to improve your effectivenss when working independently.
-- a CEO/CTO/CIO or other C-level executive trying to get your head around how much face-to-face time you need with your employess,
+- if you are a manager responsible for a distributed team.
+- an individual wanting to improve your effectiveness when working independently.
+- a CEO/CTO/CIO or other C-level executive trying to get your head around how much face-to-face time you need with your employees,
 and how much time you think they need with each other.
-- an HR Manager trying to navigate a thick fog of emotions whille being empathetic to creating company policies that are fair to everyone.
+- an HR Manager trying to navigate a thick fog of emotions while being empathetic to creating company policies that are fair to everyone.
 
 The materials are organized by their sources. There are playbooks that are more prescriptive, articles that describe how-to methods,
 opinionated blog posts, and a (highly recommended) book that attempts to tie together the big picture of managing a fully remote company
