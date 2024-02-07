@@ -5,16 +5,16 @@ date:   2024-01-26 06:00:01 -0400
 categories: Remote Management
 ---
 
-Managing a distributed team is hard. And it's not easy working with a manager, or with colleagues, you've never met.
-These challenges impact individuals as much as they are influencing companies to reassess their policies, cultures,
-and expectations from traditional ways of working.
+Managing a distributed team is hard. And it's not easy working with a manager, or with colleagues, you've only met
+on video meetings. These challenges impact individuals as much as they are influencing companies to reassess their
+policies, cultures, and expectations from traditional ways of working.
 
 The list of resources on this page will be useful in a variety of circumstances:
 
 - if you are a manager responsibile for a distributed team.
 - an individual wanting to improve your effectivenss when working independently.
 - a CEO/CTO/CIO or other C-level executive trying to get your head around how much face-to-face time you need with your employess,
-and how much you think they need with each other.
+and how much time you think they need with each other.
 - an HR Manager trying to navigate a thick fog of emotions whille being empathetic to creating company policies that are fair to everyone.
 
 The materials are organized by their sources. There are playbooks that are more prescriptive, articles that describe how-to methods,
@@ -27,7 +27,7 @@ remote working model, then you may be able to pick-and-choose ideas from blog po
 the book and playbook references are likely what you'll need. You know your situation so choose materials that fit the scenarios on
 your team or in your company the best.
 
-Something to know, the references from 37Signals are different from others. Jason Fried (CEO) and David Heinemeier Hansson (CTO) operate a
+Something to point out, the references from 37Signals are different from others. Jason Fried (CEO) and David Heinemeier Hansson (CTO) operate a
 *remote only* company and have written extensively on their management approach. If you're looking for novel ideas and a different
 take on remote work, deep-dive into what 37Signals have to say.
 
