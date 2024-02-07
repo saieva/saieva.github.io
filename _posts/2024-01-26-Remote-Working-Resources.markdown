@@ -135,7 +135,7 @@ in considering scenarios when people request changes to their work locations and
 
 #### **ThoughtWorks**
 
-ThoughtWorks is a technology consultancy of cross-functional strategies, designers, data engineers, and developers.
+ThoughtWorks is a technology consultancy of cross-functional strategists, designers, data engineers, and developers.
 They specialize in Agile methods for project management and application development.
 
 The ThoughtWorks playbook considers infrastructure needed for remote work, virtual communications, ways of working,
@@ -154,7 +154,7 @@ sensible list of do’s and don’ts for collaborating on video calls.
 > As we got more comfortable with video, we took more opportunity to collaborate with video meetings rather
 > than trying to get everyone together in one place.
 
-#### **Trello and Atlassian**
+#### **Trello / Atlassian**
 
 Trello is a Web-based kanban style board for managing projects using Agile methods. The product was initially
 developed by Fog Creek Software.
