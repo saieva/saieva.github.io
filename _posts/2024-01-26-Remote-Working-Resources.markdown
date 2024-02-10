@@ -54,7 +54,6 @@ Their approach is (partly) summarized by idea #11 from the [37Signals][37Signals
 > we’re also always iterating on how our company works. We consider our company a product too.
 
 **Shape Up: Stop Running in Circles and Ship Work that Matters**\
-
 Shape Up is a free online book describing the 37Signals design, delivery, and project methodology. It goes hand-in-hand with
 their way of managing projects as a remote only company.
 
