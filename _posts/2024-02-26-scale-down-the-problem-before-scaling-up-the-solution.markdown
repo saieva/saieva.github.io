@@ -4,6 +4,7 @@ title:  "Scale-down The Problem Before Scaling-up The Solution"
 date:   2024-02-24 06:00:01 -0400
 categories: Agile
 ---
+![Searching for Agile in SAFe](/images/SearchingForAgileInSAFe.jpg "Searching for Agile in SAFe")
 
 People overcomplicate problems in a lot of different ways. Throwing unnecessary tools and technology at a problem and over engineering are typical,
 and so is creating multi-step multi-level processes that are cumbersome to work within and difficult to follow. Overcomplications frequently occur
