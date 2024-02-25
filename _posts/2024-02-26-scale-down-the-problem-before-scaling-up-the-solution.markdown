@@ -35,7 +35,7 @@ to a team, a group, or a department.
 You wouldn’t rent an 18-wheeler to take a family of four on vacation, right?
 
 The building blocks of SAFe are in the [Essential][SAFeEssentialURL] configuration which describes the [team][SAFeTeamURL], its [leadership][SAFeLeadershipURL],
-[delivery][SAFeDeliveryURL], and [day-to-day processes][SAFeFlowURL] (which SAFe calls The Flow). Essential is where the best alignment with
+[delivery][SAFeDeliveryURL], and [day-to-day processes][SAFeTeamFlowURL] (which SAFe calls Team Flow). Essential is where the best alignment with
 traditional Agile values and principles can be found. (In other words, the parts that are mostly right.) Attempting to apply any
 higher-level SAFe Configuration without teams being properly trained and effectively delivering at this lowest level first is synonymous with
 building a three story house on a foundation matchsticks.
@@ -53,7 +53,7 @@ perhaps you’ll find that’s all that’s needed.
 [SAFeTeamURL]: https://scaledagileframework.com/team-and-technical-agility/
 [SAFeLeadershipURL]: https://scaledagileframework.com/lean-agile-leadership/
 [SAFeDeliveryURL]: https://scaledagileframework.com/agile-product-delivery/
-[SAFeFlowURL]: https://scaledagileframework.com/team-flow/
+[SAFeTeamFlowURL]: https://scaledagileframework.com/team-flow/
 [TheScrumGuidesURL]: https://scrumguides.org
 [XPExplainedURL]: https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/
 [LeanURL]: https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783/
