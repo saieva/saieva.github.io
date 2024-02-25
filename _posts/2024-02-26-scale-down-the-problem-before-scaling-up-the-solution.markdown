@@ -25,6 +25,8 @@ In the blog article [Is SAFe Safe?][IsSAFeSafeURL] by Dave Farley, he sums-up th
 Dig into the details of SAFe and you can find parts that are mostly right. But you’ll need to dig from the bottom-up.
 You would never know that SAFe has anything to do with Agile if you’re looking from the top-down.
 
+![SAFe Configurations](/images/SAFev6.0Configurations.jpg "SAFe Configurations")
+
 SAFe was never intended as a one-size-fits-all solution. Leffingwell allowed the methodology to scale with “Configurations;”
 in the current version (v6.0) of SAFe these are Essential, Large Solution, Portfolio, and Full. (We can think of these Configurations as small,
 medium, large, and xtra-large.) It can be a serious and problematic overcomplication when larger SAFe Configurations are unnecessarily applied
@@ -32,7 +34,7 @@ to a team, a group, or a department.
 
 You wouldn’t rent an 18-wheeler to take a family of four on vacation, right?
 
-The building blocks of SAFe are in the Essential configuration which describes the [team][SAFeTeamURL], its [leadership][SAFeLeadershipURL],
+The building blocks of SAFe are in the [Essential][SAFeEssentialURL] configuration which describes the [team][SAFeTeamURL], its [leadership][SAFeLeadershipURL],
 [delivery][SAFeDeliveryURL], and [day-to-day processes][SAFeFlowURL] (which SAFe calls The Flow). Essential is where the best alignment with
 traditional Agile values and principles can be found. (In other words, the parts that are mostly right.) Attempting to apply any
 higher-level SAFe Configuration without teams being properly trained and effectively delivering at this lowest level first is synonymous with
@@ -47,6 +49,7 @@ perhaps you’ll find that’s all that’s needed.
 [AgileManifestoURL]: https://agilemanifesto.org
 [AgilePrinciplesURL]: https://agilemanifesto.org/principles.html
 [IsSAFeSafeURL]: https://www.davefarley.net/?p=337
+[SAFeEssentialURL]: https://scaledagileframework.com/#essential
 [SAFeTeamURL]: https://scaledagileframework.com/team-and-technical-agility/
 [SAFeLeadershipURL]: https://scaledagileframework.com/lean-agile-leadership/
 [SAFeDeliveryURL]: https://scaledagileframework.com/agile-product-delivery/
