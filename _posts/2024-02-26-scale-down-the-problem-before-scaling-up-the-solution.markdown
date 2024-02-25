@@ -18,7 +18,7 @@ Fundamentally, SAFe is not far-off from the [values][AgileManifestoURL] we see i
 and their [benefits][AgilePrinciplesURL], are lost in a thick fog of top-down processes when organizations attempt to apply SAFe at
 its largest scale.
 
-In the blog article [Is SAFe Safe?][IsSAFeSafeURL] by Dave Farley, he sums-up this idea of lost Agile values this way:
+In the blog article [Is SAFe Safe?][IsSAFeSafeURL], Dave Farley sums-up this idea of lost Agile values in this way:
 
 > “I have said for years, since I first became aware of SAFe’s existence, that if I look at any small piece of it,
 > while it looks too bureaucratic to me, it is mostly not wrong.”
@@ -39,7 +39,7 @@ The building blocks of SAFe are in the [Essential][SAFeEssentialURL] configurati
 [delivery][SAFeDeliveryURL], and [day-to-day processes][SAFeTeamFlowURL] (which SAFe calls Team Flow). Essential is where the best alignment with
 traditional Agile values and principles can be found. (In other words, the parts that are mostly right.) Attempting to apply any
 higher-level SAFe Configuration without teams being properly trained and effectively delivering at this lowest level first is synonymous with
-building a three story house on a foundation matchsticks.
+building a three story house on a foundation of matchsticks.
 
 And in this alignment with Agile exist options to scale-down the problem. Since there are other lighter-weight choices of Agile methodologies
 why not start with one of them, such as [Scrum][TheScrumGuidesURL], [Extreme Programming][XPExplainedURL], or [Lean][LeanURL]?
