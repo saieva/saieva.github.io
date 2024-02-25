@@ -28,7 +28,7 @@ You would never know that SAFe has anything to do with Agile if you’re looking
 ![SAFe Configurations](/images/SAFev6.0Configurations.jpg "SAFe Configurations")
 
 SAFe was never intended as a one-size-fits-all solution. Leffingwell allowed the methodology to scale with “Configurations;”
-in the current version (v6.0) of SAFe these are Essential, Large Solution, Portfolio, and Full. (We can think of these Configurations as small,
+in the current version of SAFe (v6.0) these are Essential, Large Solution, Portfolio, and Full. (We can think of these Configurations as small,
 medium, large, and xtra-large.) It can be a serious and problematic overcomplication when larger SAFe Configurations are unnecessarily applied
 to a team, a group, or a department.
 
