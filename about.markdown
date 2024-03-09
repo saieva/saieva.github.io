@@ -18,6 +18,9 @@ Graduate degree programs.
 I work independently and I am available to join your enterprise or startup project as a Technical Advisor or Software Consultant.
 I can fill an interim leadership role for your most important application and IT initiatives as CIO or CTO.
 
+As a transformational leader of Agile, DevOps, and Cloud initiatives, my influential work at a Fortune 100 company was published in
+the article [AIG's DevOps Journey][AIGsDevOpsJourneyURL] in the AWS Cloud Enterprise Strategies Blog.
+
 I have coached dozens of teams and managed hundreds of projects using Agile methodologies such as Scrum, Extreme Programming,
 and Lean. I am reasonably current in several programming languages and infrastucture automation technologies and I can
 complement a team as an individual contributor when needed.
@@ -37,3 +40,4 @@ Salvatore Saieva
 [MettleCVEAppURL]: https://apps.apple.com/us/app/mettlecve/id1555613958
 [NYUMoTURL]: https://engineering.nyu.edu/academics/programs/management-technology-ms
 [NYUCyberFellowsURL]: https://engineering.nyu.edu/academics/programs/cybersecurity-ms-online/nyu-cyber-fellows
+[AIGsDevOpsJourneyURL]: https://aws.amazon.com/blogs/enterprise-strategy/aigs-devops-journey
