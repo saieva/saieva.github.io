@@ -5,7 +5,7 @@
 layout: home
 ---
 [<img src="/images/LI-In-Bug.png" title="Goto Saieva on LinkedIn" height="15%" width="15%" style="padding-right:10px">](https://www.LinkedIn.com/in/saieva)
-[<img src="/images/Twittersocialicons-roundedsquare-blue.png" title="Goto @saieva on Twitter" height="13%" width="13%" style="padding-right:17px">](https://www.Twitter.com/saieva)
+[<img src="/images/X-logo-black.png" title="Goto @saieva on X" height="10%" width="10%" style="padding-right:17px">](https://www.X.com/saieva)
 [<img src="/images/MettleCVE-150x150px.png" title="Goto WebMettle Systems on LinkedIn" height="15%" width="15%">](https://www.LinkedIn.com/company/WebMettle/posts/?feedView=images)
 
 ---
