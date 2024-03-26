@@ -11,7 +11,7 @@ Therefore, the collection of highlights becomes my interpretation of the book. Y
 useful for deciding to read the book, as a quick method for rereading, or just as useful information
 even if you decide not to read the book.
 
-My Amazon.com review of The Happiness Project is located here: [https://amzn.to/ctLHWG][TheHappinessProjectAmazonReviewURL].
+My Amazon.com review of The Happiness Project is located here: [https://www.amazon.com/review/R1YUDR6I4Q3JXI/][TheHappinessProjectAmazonReviewURL].
 
 Notes:
 

@@ -11,7 +11,7 @@ Therefore, the collection of highlights becomes my interpretation of the book. Y
 useful for deciding to read the book, as a quick method for rereading, or just as useful information
 even if you decide not to read the book.
 
-My Amazon.com review of Rework is located here: [https://amzn.to/cmhtri][ReworkAmazonReviewURL].
+My Amazon.com review of Rework is located here: [https://www.amazon.com/review/R1W286UDFJDEJ2/][ReworkAmazonReviewURL].
 
 Note, page number references in the book are surrounded by []’s.
 
@@ -179,5 +179,5 @@ animosity, torpedo good discussions, and cause projects to be late. [265]
 - When you’re high on inspiration, you can get two weeks of work done in twenty-four hours. [271]
 - Inspiration is a magical thing, a productivity multiplier, a motivator. [271]
 
-[ReworkBookURL]: https://amzn.to/dbyKIm
-[ReworkAmazonReviewURL]: https://amzn.to/cmhtri
+[ReworkBookURL]: https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A/
+[ReworkAmazonReviewURL]: https://www.amazon.com/review/R1W286UDFJDEJ2/
