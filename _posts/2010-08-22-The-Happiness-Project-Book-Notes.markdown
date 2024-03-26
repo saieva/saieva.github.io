@@ -11,9 +11,13 @@ Therefore, the collection of highlights becomes my interpretation of the book. Y
 useful for deciding to read the book, as a quick method for rereading, or just as useful information
 even if you decide not to read the book.
 
-My Amazon.com review of Rework is located here: [https://amzn.to/ctLHWG][TheHappinessProjectAmazonReviewURL].
+My Amazon.com review of The Happiness Project is located here: [https://amzn.to/ctLHWG][TheHappinessProjectAmazonReviewURL].
 
-Note, page number references in the book are surrounded by []’s.
+Notes:
+
+- Page number references in the book are surrounded by []’s.
+- I read the first edition of The Happiness Project. Page number references have likely changed in the latest
+edition of the book.
 
 Sal.<br>
 August 2010
@@ -267,5 +271,5 @@ a fresh opportunity. [288]
 not what I wished made me happy. One of the biggest surprises of the happiness project was just how hard it was to know myself. [288]
 - The feeling of control is an essential element of happiness — a better predictor of happiness than, say, income. [289]
 
-[TheHappinessProjectBookURL]: https://amzn.to/c3NZVP
-[TheHappinessProjectAmazonReviewURL]: https://amzn.to/ctLHWG
+[TheHappinessProjectBookURL]: https://www.amazon.com/Happiness-Project-Tenth-Anniversary-Aristotle-ebook/dp/B07CRQMQ17/
+[TheHappinessProjectAmazonReviewURL]: https://www.amazon.com/review/R1YUDR6I4Q3JXI/
