@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pat The Cat Profito Fan Page"
+title:  'Pat "The Cat" Profito Fan Page'
 date:   2024-07-05 06:00:01 -0400
 categories: Other
 permalink: /PatTheCatProfitoFanPage.html
