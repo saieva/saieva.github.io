@@ -9,7 +9,7 @@ permalink: /PatTheCatProfitoFanPage.html
 
 ### **My Secret Billionaire**
 - https://www.youtube.com/watch?v=xQ-EuIC3eGQ
-- Note, Pat appears as the street hot dog vendor at approximately 25:25 in the video.
+- Note, Pat appears as the hot dog street vendor at approximately 25:25 and 1:22:52 in the video.
 
 ### **Mob Night With The Sopranos In New York City**
 - https://www.youtube.com/watch?v=Bwv8Pv4Cc9w
