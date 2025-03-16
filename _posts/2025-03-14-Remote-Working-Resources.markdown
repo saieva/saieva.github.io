@@ -1,15 +1,18 @@
 ---
 layout: post
 title:  "Remote Working: References and Resources"
-date:   2024-01-26 06:00:01 -0400
+date:   2025-03-14 06:00:01 -0400
 categories: Remote Management
 ---
 
 Managing a distributed team is hard. And it's not easy working with a manager, or with colleagues, you've only met
-on video meetings. These challenges impact individuals as much as they are influencing companies to reassess their
-policies, cultures, and expectations from traditional ways of working.
+on video meetings. As individuals, the challenges of remote work strain our abilities to effectively collaborate.
+As managers and leaders striving to build top-notch environments and experiences for their teams, remote scenarios
+are reshaping expectations for traditional ways of working. We can't expect these challenges to resolve on their own.
+Individuals will need skills and methods to collaborate effectively. Teams will need a game-plan to keep everyone on
+the same page.
 
-The list of resources on this page will be useful in a variety of circumstances:
+This collection of references and resources will be useful in a variety situations:
 
 - if you are a manager responsible for a distributed team.
 - an individual wanting to improve your effectiveness when working independently.
@@ -22,13 +25,13 @@ opinionated blog posts, and a (highly recommended) book that attempts to tie tog
 with details of using online tools to collaborate. Each source includes some commentary to help you decide where to start or
 if a particular item is worth your time.
 
-It's unlikely that any one source will give you all the answers. If you're trying to improve an existing and already functioning
-remote working model, then you may be able to pick-and-choose ideas from blog posts and articles. If you're starting from scratch,
-the book and playbook references are likely what you'll need. You know your situation so choose materials that fit the scenarios on
-your team or in your company the best.
+It's unlikely that any one source will have all the answers. If you're trying to improve an existing and already functioning
+remote working model, then pick-and-choose some ideas from the blog posts and articles. If you're starting from scratch,
+the book and playbook references are good starting points. You know your situation so choose materials that best fit the scenarios on
+your team or in your company.
 
-Something to point out, the references from 37Signals are different from others. Jason Fried (CEO) and David Heinemeier Hansson (CTO) operate a
-*remote only* company and have written extensively on their management approach. If you're looking for novel ideas and a different
+It's worth noting that the references from 37Signals stand apart from the rest. Jason Fried (CEO) and David Heinemeier Hansson (CTO)
+operate a *remote only* company and have written extensively on their management approach. If you're looking for novel ideas and a different
 take on remote work, deep-dive into what 37Signals have to say.
 
 #### **37Signals**
@@ -49,7 +52,7 @@ Their approach is (partly) summarized by idea #11 from the [37Signals][37Signals
 [https://www.amazon.com/Remote-Office-Required-Jason-Fried-ebook/dp/B00C0ALZ0W/](https://www.amazon.com/Remote-Office-Required-Jason-Fried-ebook/dp/B00C0ALZ0W/)
 
 **How We Structure Our Work and Teams**\
-[https://basecamp.com/articles/how-we-structure-our-teams](https://basecamp.com/articles/how-we-structure-our-teams)
+[https://signalvnoise.com/svn3/how-we-structure-our-work-and-teams-at-basecamp](https://signalvnoise.com/svn3/how-we-structure-our-work-and-teams-at-basecamp)
 > We landed on this process after a decade of refinement. Just like we’re always iterating on our product work,
 > we’re also always iterating on how our company works. We consider our company a product too.
 
