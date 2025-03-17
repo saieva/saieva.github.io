@@ -7,7 +7,7 @@ categories: Remote Management
 
 Managing a distributed team is hard. And it's not easy working with a manager, or with colleagues, you've only met
 on video meetings. As individuals, the challenges of remote work strain our abilities to effectively collaborate.
-As managers and leaders striving to build top-notch environments and experiences for their teams, remote scenarios
+As managers and leaders striving to build top-notch environments and experiences for our teams, remote scenarios
 are reshaping expectations for traditional ways of working. We can't expect these challenges to resolve on their own.
 Individuals will need skills and methods to collaborate effectively. Teams will need a game-plan to keep everyone on
 the same page.
