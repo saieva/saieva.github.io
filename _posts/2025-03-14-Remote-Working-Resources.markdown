@@ -196,11 +196,13 @@ use GitLab tools to build and deliver applications using secure and compliant me
 
 #### **Other Articles and Posts**
 
-**Navigating the Hybrid Work Dilemma (HBR IdeaCast Episode 1020)**
+**Navigating the Hybrid Work Dilemma (HBR IdeaCast Episode 1020)**\
 Curt Nickisch of HBR IdeaCast interviews Prithriwaj “Raj” Choudhury, associate professor at Harvard Business School, about his book
-[https://www.amazon.com/World-Your-Office-Productivity-Innovation-ebook/dp/B0D8TYTN4G](The World Is Your Office: How Work from
-Anywhere Boosts Talent, Productivity, and Innovation). Listen to the podcast online or click the Transcript tab to read the interview.
+[The World Is Your Office: How Work from Anywhere Boosts Talent, Productivity, and Innovation](https://www.amazon.com/World-Your-Office-Productivity-Innovation-ebook/dp/B0D8TYTN4G).
+Listen to the podcast online or click the Transcript tab to read the interview.
+
 [https://hbr.org/podcast/2025/04/navigating-the-hybrid-work-dilemma/](https://hbr.org/podcast/2025/04/navigating-the-hybrid-work-dilemma/)
+
 > The critical element here is that whatever the team decides, whether the team decides to meet every week in the downtown office,
 > or to meet quarterly at a retreat or an offsite, it needs to be backed up with the appropriate management practices.
 > You cannot expect work from anywhere to work if you are still focused on management practices from the 1980s, and if
