@@ -36,6 +36,8 @@ linkedin_username: saieva
 
 show_excerpts: true
 
+google_analytics: G-ET8S4E9EPV
+
 # Build settings
 theme: minima
 header_pages:
