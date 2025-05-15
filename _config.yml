@@ -21,16 +21,18 @@
 title: Agile. Technology. Management.
 author: Salvatore Saieva
 #email: user@example.com
+tagline: Fractional CTO CIO for startup and enterprise organizations.
 description: >- # this means to ignore newlines until "baseurl:"
-  Fractional CTO/CIO, Fortune 100 or startup, available to lead your IT and application projects.
-  Covering topics in
-  IT Management and Leadership;
+  Fractional CTO CIO, Fortune 100 or startup, available to lead your IT and application projects.
+  Strategic leadership in
+  Web, Mobile, and Enterprise application development;
+  Cloud and on-premises infrastructure engineering;
   Agile methodologies (Extreme Programming, Scrum, Lean);
-  Programming and Desired State Configuration languages;
-  Clean Code, Testing, and Site Reliability Engineering.
+  Clean Code, Test Driven Development (TDD), and Site Reliability Engineering (SRE);
+  Cybersecurity and IT Risk Management.
 markdown: GFM
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://saieva.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://saieva.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: saieva
 linkedin_username: saieva
 
