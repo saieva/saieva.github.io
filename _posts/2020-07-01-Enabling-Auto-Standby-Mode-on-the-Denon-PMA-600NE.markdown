@@ -2,7 +2,8 @@
 layout: post
 title:  "Enabling Auto Standby Mode on the Denon PMA-600NE"
 date:   2020-07-01 00:00:01 -0400
-date_modified: 2025-06-03 11:30:00 -0400
+seo:
+   date_modified: 2025-06-03 11:30:00 -0400
 tags: [Denon, PMA-600NE, Audio, Audiophile, Amplifier, Standby Mode]
 permalink: /denon-pma600ne-standby-mode.html
 categories: Audiophile
@@ -21,7 +22,7 @@ The steps, copied from the manual, are straightforward:
 > - When auto standby mode is on: The power indicator blinks in green three times.
 > - When auto standby mode is off: The power indicator blinks in green once.
 
-The Denon PMA-600NE Owner's Manual is viewable onine here:
+The Denon PMA-600NE Owner's Manual is viewable online here:
 
 [http://manuals.denon.com/PMA600NE/EU/EN/DNTXSYomckupba.php](http://manuals.denon.com/PMA600NE/EU/EN/DNTXSYomckupba.php)
 
