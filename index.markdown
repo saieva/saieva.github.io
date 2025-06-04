@@ -33,8 +33,8 @@ The recommendations I've shared and used over-and-over-again are consolidated he
 > team to cope with routine mishaps, to anticipate and forfend minor calamities. The calculated response, the measured effort,
 > are the wet blankets that dampen hustle. -Frederick Brooks, [The Mythical Man-Month][MythicalManMonthURL].
 
-[SalSaievaAboutURL]: https://saieva.com/about
-[HowToDoAgileURL]: https://saieva.com/agile
+[SalSaievaAboutURL]: https://saieva.com/about/
+[HowToDoAgileURL]: https://saieva.com/agile/
 [SalSaievaLinkedInURL]: https://www.LinkedIn.com/in/Saieva
 [MettleCVEAppURL]: https://apps.apple.com/us/app/mettlecve/id1555613958
 [MythicalManMonthURL]: https://smile.amazon.com/dp/B00B8USS14/ref=cm_sw_r_tw_dp_K3DZW88D1T726NP8QQX4
