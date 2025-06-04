@@ -2,6 +2,10 @@
 layout: post
 title:  "Scale-down The Problem Before Scaling-up The Solution"
 date:   2024-02-24 06:00:01 -0400
+seo:
+   date_modified: 2025-06-04 11:30:00 -0400
+tags: [Scaled Agile Framework, SAFe, Agile, Extreme Programming, XP, Scrum, Lean]
+permalink: /scale-down-the-problem-before-scaling-up-the-solution.html
 categories: Agile
 ---
 ![Searching for Agile in SAFe](/images/SearchingForAgileInSAFe.jpg "Searching for Agile in SAFe")
