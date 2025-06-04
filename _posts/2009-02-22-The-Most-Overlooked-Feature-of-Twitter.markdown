@@ -43,4 +43,4 @@ way to find the information that you’ve flagged as important; I created a link
 on this blog page to make that information more accessible. And if you’re looking for ways to make Twitter more
 useful, improve the way you’re currently using the Favorites feature.
 
-[SaievaTwitterFavoritesURL]: http://twitter.com/saieva/favorites
+[SaievaTwitterFavoritesURL]: https://X.com/saieva/favorites
