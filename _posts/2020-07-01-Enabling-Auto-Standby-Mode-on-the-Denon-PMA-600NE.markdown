@@ -3,6 +3,7 @@ layout: post
 title:  "Enabling Auto Standby Mode on the Denon PMA-600NE"
 date:   2020-07-01 00:00:01 -0400
 seo:
+   type: HowTo
    date_modified: 2025-06-03 11:30:00 -0400
 tags: [Denon, PMA-600NE, Audio, Audiophile, Amplifier, Standby Mode]
 permalink: /denon-pma600ne-standby-mode.html
