@@ -11,7 +11,7 @@ categories: Music
 ---
 ![Summer Concerts in Bergen and Rockland Counties](/images/SummerConcerts.jpg "Music in the park...")
 
-# **2025 Summer Concert Schedules for Bergen and Rockland Counties**
+# **Outdoor Summer Concerts in Bergen and Rockland Counties**
 
 Get outside this Summer for music in the park! Check out this consolidated schedule of outdoor concerts
 across Bergen County, NJ, and Rockland County, NY. Most shows are free for residents and visitors.
