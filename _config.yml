@@ -21,15 +21,24 @@
 title: Agile. Technology. Management.
 author: Salvatore Saieva
 #email: user@example.com
-tagline: Fractional CTO CIO for startup and enterprise organizations.
-description: >- # this means to ignore newlines until "baseurl:"
-  Fractional CTO CIO, Fortune 100 or startup, available to lead your IT and application projects.
-  Strategic leadership in
-  Web, Mobile, and Enterprise application development;
-  Cloud and on-premises infrastructure engineering;
-  Agile methodologies (Extreme Programming, Scrum, Lean);
-  Clean Code, Test Driven Development (TDD), and Site Reliability Engineering (SRE);
-  Cybersecurity and IT Risk Management.
+#
+# Prior tagline:
+#    Fractional CTO CIO for startup and enterprise organizations.
+#
+# Prior description:
+#    Fractional CTO CIO, Fortune 100 or startup, available to lead your IT and application projects.
+#      Strategic leadership in
+#      Web, Mobile, and Enterprise application development;
+#      Cloud and on-premises infrastructure engineering;
+#      Agile methodologies (Extreme Programming, Scrum, Lean);
+#      Clean Code, Test Driven Development (TDD), and Site Reliability Engineering (SRE);
+#      Cybersecurity and IT Risk Management.
+#
+tagline: Fractional CTO; Fractional CIO; Fortune 100 Enterprises; Small businesses and startups.
+description: >- # this means to ignore newlines
+   Fractional Leadership specializing in Agile transformations; Application modernizations;
+   IT Development; Cloud migrations; Hands-on DevOps leader; Remote work; Legacy systems decommissioning;
+   Cybersecurity and IT Risk Management.
 markdown: GFM
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://saieva.com" # the base hostname & protocol for your site, e.g. http://example.com
