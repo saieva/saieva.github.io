@@ -4,24 +4,26 @@ title:  "2025 Bergen and Rockland Counties Free Outdoor Summer Concerts"
 date:   2025-06-01 06:00:01 -0400
 seo:
    type: WebPage
-   date_modified: 2025-06-17 11:30:00 -0400
+   date_modified: 2025-06-25 11:30:00 -0400
 tags: [Outdoor Concerts, Summer Concerts, Bergen County Music, Rockland County Music]
 permalink: /2025-bergen-rockland-free-outdoor-summer-concerts.html
 categories: Music
 ---
 ![Summer Concerts in Bergen and Rockland Counties](/images/SummerConcerts.jpg "Music in the park...")
 
-# **Outdoor Summer Concerts in Bergen and Rockland Counties**
-
 Get outside this Summer for music in the park! Check out this consolidated schedule of outdoor concerts
 across Bergen County, NJ, and Rockland County, NY. Most shows are free for residents and visitors.
 Bring a lawn chair and pack a cooler with drinks and snacks for a great night out.
 
-Hyperlinks in the Schedule column lead to official concert announcements from local parks and recreation
-departments. Use the schedules to confirm concert dates, times, performing groups, attendance rules, and
-venue details.
+Scroll to the bottom of this page for additional concert locations and recommendations.
 
 Enjoy the shows!
+
+# **Outdoor Summer Concerts in Bergen and Rockland Counties**
+
+Hyperlinks in the Schedule column lead to official concert announcements from local parks and recreation
+departments. Use the schedules to confirm concert dates, times, performing groups, attendance rules,
+rain dates and other details.
 
 | **Date**               | **Location**                                               | **Group / Show**                                   | **Schedule**                                                                   |
 |:-----------------------|:-----------------------------------------------------------|:---------------------------------------------------|:-------------------------------------------------------------------------------|
@@ -96,6 +98,13 @@ Enjoy the shows!
 |   Sun, Aug 31 @ 5pm    | Bowline Point Park; Haverstraw, NY                         | Hurley Mountain Highway                            | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 |   Sun, Aug 31 @ 7pm    | Bowline Point Park; Haverstraw, NY                         | The Mighty Spectrum Band                           | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 
+# **Don't miss these other great locations**
+
+- **[Tallman Pool Club][TallmanPoolClubURL]:** Located in the Tallman Mountain State Park in Sparkill, NJ, the Pool Club offers
+two beautiful pools, live music, an outdoor restaurant, and poolside service right to your lounge chair. Day and season passes are available.
+- **[Warwick Valley Winery & Distillery][WarwickWineryConcertsURL]:** Located in the foothills of the Hudson Valley with manicured grounds,
+gardens, and orchards spanning over 120 acres. Live music every weekend all year round from 2pm – 5pm.
+
 [HillsdaleConcertsURL]: https://online.fliphtml5.com/nnemo/ptll/#p=16
 [MontvaleStreetFairURL]: https://montvalechamber.com/index.php/events/95
 [WestwoodConcertsURL]: https://westwoodnj.gov/348/Special-Events
@@ -103,4 +112,5 @@ Enjoy the shows!
 [ParkRidgeTownPicnicURL]: https://www.parkridgeboro.com/news-hidden/660-town-picnic-postponed-new-date-sat-7-12-rain-date-sun-7-13
 [ParkRidgeSummerConcertSeriesURL]: https://www.parkridgeboro.com/government/news/659-summer-concert-series
 [RocklandSoundsOfSummerConcertsURL]: https://www.orangetown.com/wp-content/uploads/2025/04/Sounds-of-Summer-2025.pdf
+[TallmanPoolClubURL]: https://www.instagram.com/tallmanbeachpoolclub/
 [WarwickWineryConcertsURL]: https://wvwinery.com/live-music-festivals/
