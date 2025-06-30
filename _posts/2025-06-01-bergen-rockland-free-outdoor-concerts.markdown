@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  "2025 Bergen and Rockland Counties Free Outdoor Summer Concerts"
+title:  "2025 Bergen NJ and Rockland NY Free Outdoor Summer Concerts Near You"
+tagline: Free Summer Music, Movies, and Concerts In A Park Near You
+description: Schedules and locations of free music, movies, and Summer concerts in a park near you in NJ and NY.
 date:   2025-06-01 06:00:01 -0400
 seo:
    type: WebPage
-   date_modified: 2025-06-25 11:30:00 -0400
+   date_modified: 2025-06-29 09:30:00 -0400
 tags: [Outdoor Concerts, Summer Concerts, Bergen County Music, Rockland County Music]
 permalink: /2025-bergen-rockland-free-outdoor-summer-concerts.html
 categories: Music
 ---
 ![Summer Concerts in Bergen and Rockland Counties](/images/SummerConcerts.jpg "Music in the park...")
 
-Get outside this Summer for music in the park! Check out this consolidated schedule of outdoor concerts
+Get outside this Summer for music and movies in the park! Check out this consolidated schedule of outdoor concerts
 across Bergen County, NJ, and Rockland County, NY. Most shows are free for residents and visitors.
 Bring a lawn chair and pack a cooler with drinks and snacks for a great night out.
 
