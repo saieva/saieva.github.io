@@ -20,7 +20,7 @@ with Mark Bittman.
   - **My Bread** by Jim Lahey [http://a.co/d/03JtIb1][MyBreadBookURL]
 - &#x1f4d6; If you don’t have the Lahey book, here’s the basic recipe. Use measurements by weight for the best results:
   - [https://www.wnyc.org/story/70588-recipe-for-the-basic-no-knead-bread-by-jim-lahey-with-rick-flaste-from-my-bread][JimLaheyRecipeURL]
-- &#128296; And a Lodge 2-Quart Cast Iron Dutch Oven is just the right size for cooking one loaf:
+- &#128296; And a Lodge 2-Quart Cast Iron Dutch Oven is just the right size for baking one loaf:
   - [http://a.co/d/hBYvFzV][DutchOvenURL]
 - &#128296; An 11-inch Dutch Dough Whisk works very well for mixing:
   - [http://a.co/d/0e8LlyK][DoughWhiskURL]
