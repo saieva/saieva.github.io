@@ -6,16 +6,20 @@ description: Schedules and locations of free music, movies, and Summer concerts 
 date:   2025-06-01 06:00:01 -0400
 seo:
    type: WebPage
-   date_modified: 2025-06-29 09:30:00 -0400
+   date_modified: 2025-07-02 09:30:00 -0400
 tags: [Outdoor Concerts, Summer Concerts, Bergen County Music, Rockland County Music]
 permalink: /2025-bergen-rockland-free-outdoor-summer-concerts.html
 categories: Music
 ---
 ![Summer Concerts in Bergen and Rockland Counties](/images/SummerConcerts.jpg "Music in the park...")
 
+- _7/2/2025 Update: The town of Woodcliff Lake opened a beautiful park this year and is hosting an
+outdoor Summer concert series called Woodcliff Wednesdays. The series includes a family movie night and
+a Friday finale music concert. See the schedule below for updates._
+
 Get outside this Summer for music and movies in the park! Check out this consolidated schedule of outdoor concerts
 across Bergen County, NJ, and Rockland County, NY. Most shows are free for residents and visitors.
-Bring a lawn chair and pack a cooler with drinks and snacks for a great night out.
+Bring a lawn chair, a blanket, and pack a cooler with drinks and snacks for a great night out.
 
 Scroll to the bottom of this page for additional concert locations and recommendations.
 
@@ -40,6 +44,7 @@ rain dates and other details.
 | Thurs, Jul 03 @ 8pm    | Veterans Memorial Park; Westwood, NJ                       | Country Fresh                                      | [Westwood Recreation Department][WestwoodConcertsURL]                          |
 |   Fri, Jul 04 @ 8pm    | Veterans Memorial Park; Westwood, NJ                       | Westwood Community Band                            | [Westwood Recreation Department][WestwoodConcertsURL]                          |
 |   Mon, Jul 07 @ 7pm    | Traphagen Park; West Nyack, NY                             | Hurley Mountain Highway                            | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
+|   Wed, Jul 09 @ 6pm    | Woodcliff Park; Woodcliff Lake, NJ                         | Rock Safari                                        | [WoodcliffLakeWednesdaysURL]                                                   |
 |   Wed, Jul 09 @ 7pm    | Lake Nanuet; Nanuet, NY                                    | The Mix                                            | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 |   Wed, Jul 09 @ 7pm    | Riverfront Park; Stony Point, NY                           | Incidental Contact                                 | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 | Thurs, Jul 10 @ 8pm    | Veterans Memorial Park; Westwood, NJ                       | Here's Elton                                       | [Westwood Recreation Department][WestwoodConcertsURL]                          |
@@ -52,6 +57,7 @@ rain dates and other details.
 |   Fri, Jul 11 @ 7:45pm | Veterans Memorial Park; Orangeburg, NY                     | American Girl (Tom Petty hits)                     | [Orangetown Parks and Recreation Department][OrangetownRockTheParkConcertsURL] |
 |   Sat, Jul 12 @ 12pm   | Davies Memorial Field; Park Ridge, NJ                      | Live band TBD                                      | [Park Ridge Recreation Committee][ParkRidgeTownPicnicURL]                      |
 |  Tues, Jul 15 @ 7pm    | Congers Station Park; Congers, NY                          | Forever Young                                      | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
+|   Wed, Jul 16 @ 6pm    | Woodcliff Park; Woodcliff Lake, NJ                         | The Possums                                        | [WoodcliffLakeWednesdaysURL]                                                   |
 |   Wed, Jul 16 @ 7pm    | Lake Nanuet; Nanuet, NY                                    | Amish Outlaws                                      | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 |   Wed, Jul 16 @ 7pm    | Riverfront Park; Stony Point, NY                           | Lotion                                             | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 | Thurs, Jul 17 @ 6:30pm | Davies Memorial Field (Covered Pavilion); Park Ridge, NJ   | The AI's                                           | [Park Ridge Recreation Committee][ParkRidgeSummerConcertSeriesURL]             |
@@ -60,6 +66,7 @@ rain dates and other details.
 | Thurs, Jul 17 @ 8pm    | Veterans Memorial Park; Westwood, NJ                       | Soul Groove                                        | [Westwood Recreation Department][WestwoodConcertsURL]                          |
 |   Fri, Jul 18 @ 8pm    | Veterans Memorial Park; Westwood, NJ                       | Westwood Community Band                            | [Westwood Recreation Department][WestwoodConcertsURL]                          |
 |   Fri, Jul 18 @ 7:45pm | Veterans Memorial Park; Orangeburg, NY                     | Best Shot (Pat Benatar hits)                       | [Orangetown Parks and Recreation Department][OrangetownRockTheParkConcertsURL] |
+|   Wed, Jul 23 @ 6pm    | Woodcliff Park; Woodcliff Lake, NJ                         | Movie Night                                        | [WoodcliffLakeWednesdaysURL]                                                   |
 |   Wed, Jul 23 @ 7pm    | Beechwood Park; Hillsdale, NJ                              | Kickin Nash                                        | [Hillsdale Recreation Department][HillsdaleConcertsURL]                        |
 |   Wed, Jul 23 @ 7pm    | Lake Nanuet; Nanuet, NY                                    | Carnaby Street                                     | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 |   Wed, Jul 23 @ 7pm    | Riverfront Park; Stony Point, NY                           | 8th Grade Science                                  | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
@@ -69,12 +76,14 @@ rain dates and other details.
 | Thurs, Jul 24 @ 8pm    | Veterans Memorial Park; Westwood, NJ                       | Tramps Like Us                                     | [Westwood Recreation Department][WestwoodConcertsURL]                          |
 |   Fri, Jul 25 @ 8pm    | Veterans Memorial Park; Westwood, NJ                       | Westwood Community Band                            | [Westwood Recreation Department][WestwoodConcertsURL]                          |
 |   Fri, Jul 25 @ 7:45pm | Veterans Memorial Park; Orangeburg, NY                     | The Uncle Brothers (RESIDENTS ONLY)                | [Orangetown Parks and Recreation Department][OrangetownRockTheParkConcertsURL] |
+|   Wed, Jul 30 @ 6pm    | Woodcliff Park; Woodcliff Lake, NJ                         | PaperJam                                           | [WoodcliffLakeWednesdaysURL]                                                   |
 |   Wed, Jul 30 @ 7pm    | Lake Nanuet; Nanuet, NY                                    | The Side Cars Band                                 | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 |   Wed, Jul 30 @ 7pm    | Riverfront Park; Stony Point, NY                           | Hurley Mountain Highway                            | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 | Thurs, Jul 31 @ 6:30pm | Davies Memorial Field (Covered Pavilion); Park Ridge, NJ   | Karaoke Night!                                     | [Park Ridge Recreation Committee][ParkRidgeSummerConcertSeriesURL]             |
 | Thurs, Jul 31 @ 7pm    | Suffern Gazebo; Suffern, NY                                | River of Dreams                                    | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 | Thurs, Jul 31 @ 7:30pm | Bowline Point Park; Haverstraw, NY                         | The Hey Nows Band                                  | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 |   Fri, Aug 01 @ 7:45pm | Veterans Memorial Park; Orangeburg, NY                     | Winslow (The Eagles hits)                          | [Orangetown Parks and Recreation Department][OrangetownRockTheParkConcertsURL] |
+|   Wed, Aug 06 @ 6pm    | Woodcliff Park; Woodcliff Lake, NJ                         | Broadway Cabaret                                   | [WoodcliffLakeWednesdaysURL]                                                   |
 |   Wed, Aug 06 @ 7pm    | Lake Nanuet; Nanuet, NY                                    | The Men of Soul                                    | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 |   Wed, Aug 06 @ 7pm    | Riverfront Park; Stony Point, NY                           | The Mighty Spectrum Band                           | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 | Thurs, Aug 07 @ 6:30pm | Davies Memorial Field (Covered Pavilion); Park Ridge, NJ   | The Big Ones                                       | [Park Ridge Recreation Committee][ParkRidgeSummerConcertSeriesURL]             |
@@ -87,6 +96,7 @@ rain dates and other details.
 | Thurs, Aug 14 @ 6:30pm | Davies Memorial Field (Covered Pavilion); Park Ridge, NJ   | Rhyme or Reason                                    | [Park Ridge Recreation Committee][ParkRidgeSummerConcertSeriesURL]             |
 | Thurs, Aug 14 @ 7:30pm | Bowline Point Park; Haverstraw, NY                         | Jersey Sound                                       | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 | Thurs, Aug 14 @ 8pm    | Veterans Memorial Park; Westwood, NJ                       | The Greatest Game Ever Played (Movies in the Park) | [Westwood Recreation Department][WestwoodConcertsURL]                          |
+|   Fri, Aug 15 @ 5:30pm | Woodcliff Park; Woodcliff Lake, NJ                         | Frank and Beans                                    | [WoodcliffLakeWednesdaysURL]                                                   |
 |   Fri, Aug 15 @ 7:45pm | Veterans Memorial Park; Orangeburg, NY                     | The One Hit Wonderers  	      	       	           | [Orangetown Parks and Recreation Department][OrangetownRockTheParkConcertsURL] |
 |   Wed, Aug 20 @ 7pm    | Lake Nanuet; Nanuet, NY                                    | The Edge					   | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 | Thurs, Aug 21 @ 6:30pm | Davies Memorial Field (Covered Pavilion); Park Ridge, NJ   | London Calling                                     | [Park Ridge Recreation Committee][ParkRidgeSummerConcertSeriesURL]             |
@@ -116,3 +126,4 @@ gardens, and orchards spanning over 120 acres. Live music every weekend all year
 [RocklandSoundsOfSummerConcertsURL]: https://www.orangetown.com/wp-content/uploads/2025/04/Sounds-of-Summer-2025.pdf
 [TallmanPoolClubURL]: https://www.instagram.com/tallmanbeachpoolclub/
 [WarwickWineryConcertsURL]: https://wvwinery.com/live-music-festivals/
+[WoodcliffLakeWednesdaysURL]: https://wclnj.com/news-hidden/829-woodcliff-wednesdays-at-woodcliff-park
