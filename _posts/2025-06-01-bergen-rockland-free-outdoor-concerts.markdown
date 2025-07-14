@@ -13,6 +13,8 @@ categories: Music
 ---
 ![Summer Concerts in Bergen and Rockland Counties](/images/SummerConcerts.jpg "Music in the park...")
 
+- _7/14/2025 Update: The Wortendyke Barn Museum in Park Ridge hosts a yearly concert series from July
+through October. The schedule below is updated with Music at the Barn dates and shows._
 - _7/2/2025 Update: The town of Woodcliff Lake opened a beautiful park this year and is hosting an
 outdoor Summer concert series called Woodcliff Wednesdays. The series includes a family movie night and
 a Friday finale music concert. See the schedule below for updates._
@@ -76,6 +78,7 @@ rain dates and other details.
 | Thurs, Jul 24 @ 8pm    | Veterans Memorial Park; Westwood, NJ                       | Tramps Like Us                                     | [Westwood Recreation Department][WestwoodConcertsURL]                          |
 |   Fri, Jul 25 @ 8pm    | Veterans Memorial Park; Westwood, NJ                       | Westwood Community Band                            | [Westwood Recreation Department][WestwoodConcertsURL]                          |
 |   Fri, Jul 25 @ 7:45pm | Veterans Memorial Park; Orangeburg, NY                     | The Uncle Brothers (RESIDENTS ONLY)                | [Orangetown Parks and Recreation Department][OrangetownRockTheParkConcertsURL] |
+|   Sun, Jul 27 @ 4pm    | Wortendyke Barn Museum; Park Ridge, NJ                     | Matt Chertkoff Trio & Houston Person (Jazz)        | [Music at the Barn Series][WortendykeBarnSeriesURL]                            |
 |   Wed, Jul 30 @ 6pm    | Woodcliff Park; Woodcliff Lake, NJ                         | PaperJam                                           | [Woodcliff Wednesdays][WoodcliffLakeWednesdaysURL]                             |
 |   Wed, Jul 30 @ 7pm    | Lake Nanuet; Nanuet, NY                                    | The Side Cars Band                                 | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 |   Wed, Jul 30 @ 7pm    | Riverfront Park; Stony Point, NY                           | Hurley Mountain Highway                            | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
@@ -103,12 +106,15 @@ rain dates and other details.
 | Thurs, Aug 21 @ 7:30pm | Bowline Point Park; Haverstraw, NY                         | Bill’s Toupee Band 				   | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 | Thurs, Aug 21 @ 8pm    | Veterans Memorial Park; Westwood, NJ                       | Wicked (Movies in the Park) 			   | [Westwood Recreation Department][WestwoodConcertsURL]                          |
 | Thurs, Aug 28 @ 8pm    | Veterans Memorial Park; Westwood, NJ                       | Captain America (Movies in the Park)               | [Westwood Recreation Department][WestwoodConcertsURL]                          |
+|   Sun, Aug 31 @ 4pm    | Wortendyke Barn Museum; Park Ridge, NJ                     | Crash Gordon & Debra Dynamite (Rockabilly)         | [Music at the Barn Series][WortendykeBarnSeriesURL]                            |
 |   Wed, Aug 27 @ 7pm    | Lake Nanuet; Nanuet, NY                                    | Larry Stevens Band                                 | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 | Thurs, Aug 28 @ 7:30pm | Bowline Point Park; Haverstraw, NY                         | Ladies of the 80’s Band                            | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 |   Fri, Aug 29 @ 7:45pm | Veterans Memorial Park; Orangeburg, NY                     | Lady Supreme (Diana Ross hits)                     | [Orangetown Parks and Recreation Department][OrangetownRockTheParkConcertsURL] |
 |   Sun, Aug 31 @ 5pm    | Veterans Memorial Park; Westwood, NJ                       | Westwood Community Band                            | [Westwood Recreation Department][WestwoodConcertsURL]                          |
 |   Sun, Aug 31 @ 5pm    | Bowline Point Park; Haverstraw, NY                         | Hurley Mountain Highway                            | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
 |   Sun, Aug 31 @ 7pm    | Bowline Point Park; Haverstraw, NY                         | The Mighty Spectrum Band                           | [Rockland Sounds of Summer][RocklandSoundsOfSummerConcertsURL]                 |
+|   Sun, Sep 28 @ 4pm    | Wortendyke Barn Museum; Park Ridge, NJ                     | 2nd Annual Bergen All-Star Jazz Blast (Jazz)       | [Music at the Barn Series][WortendykeBarnSeriesURL]                            |
+|   Sun, Oct 26 @ 1pm    | Wortendyke Barn Museum; Park Ridge, NJ                     | The Cider Barn Band (14th Annual Bluegrass & Cider)| [Music at the Barn Series][WortendykeBarnSeriesURL]                            |
 
 # **Don't miss these other great locations**
 
@@ -127,3 +133,4 @@ gardens, and orchards spanning over 120 acres. Live music every weekend all year
 [TallmanPoolClubURL]: https://www.instagram.com/tallmanbeachpoolclub/
 [WarwickWineryConcertsURL]: https://wvwinery.com/live-music-festivals/
 [WoodcliffLakeWednesdaysURL]: https://wclnj.com/news-hidden/829-woodcliff-wednesdays-at-woodcliff-park
+[WortendykeBarnSeriesURL]: https://bergencountynj.gov/bergen-county-department-of-parks/music-at-the-wortendyke-barn/
