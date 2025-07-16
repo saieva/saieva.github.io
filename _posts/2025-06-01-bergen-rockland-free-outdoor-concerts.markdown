@@ -6,7 +6,7 @@ description: Schedules and locations of free music, movies, and Summer concerts 
 date:   2025-06-01 06:00:01 -0400
 seo:
    type: WebPage
-   date_modified: 2025-07-02 09:30:00 -0400
+   date_modified: 2025-07-16 09:30:00 -0400
 tags: [Outdoor Concerts, Summer Concerts, Bergen County Music, Rockland County Music]
 permalink: /2025-bergen-rockland-free-outdoor-summer-concerts.html
 categories: Music
