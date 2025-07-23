@@ -1,9 +1,17 @@
 ---
 layout: post
 title:  "Solving the Jane Street Software Engineering Mock Interview Problem"
+tagline: Internships, Mock Interview Problems, and Hiring References at Jane Street
+description: Learn about the Jane Street hiring process for an internship and practice for an interview with a mock programming problem.
 date:   2022-11-15 06:00:01 -0400
+seo:
+   type: HowTo
+   date_modified: 2025-07-23 09:30:00 -0400
+permalink: /solving-the-jane-street-software-engineering-mock-interview-problem.html
 categories: Programming
 ---
+- _7/23/2025 Update: Jane Street posted a video about the hiring process for a internship.
+Checkout the video on YouTube here: [https://www.youtube.com/watch?v=c9jTF-OSz9s][ApplyingToJaneStreetInternshipURL]_
 
 [Jane Street][JaneStreetWebsiteURL], the technically innovative trading firm in NYC, posted a software engineering
 mock interview on YouTube. The [50 minute video][EngineeringMockInterviewYouTubeURL] problem solved a program to
@@ -118,3 +126,4 @@ Source code for the recursive solution and unit tests can be [downloaded from Gi
 [JaneStreetWebsiteURL]: https://www.JaneStreet.com
 [EngineeringMockInterviewYouTubeURL]: https://www.youtube.com/watch?v=VfbFJISCP3g
 [UnitConversionGitRepoURL]: https://github.com/WebMettle/UnitConversion
+[ApplyingToJaneStreetInternshipURL]: https://www.youtube.com/watch?v=c9jTF-OSz9s
