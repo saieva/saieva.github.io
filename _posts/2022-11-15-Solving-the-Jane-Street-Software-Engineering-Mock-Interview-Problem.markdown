@@ -10,7 +10,7 @@ seo:
 permalink: /solving-the-jane-street-software-engineering-mock-interview-problem.html
 categories: Programming
 ---
-- _7/23/2025 Update: Jane Street posted a video about the hiring process for a internship.
+- _7/23/2025 Update: Jane Street posted a video about the hiring process for an internship.
 Checkout the video on YouTube here: [https://www.youtube.com/watch?v=c9jTF-OSz9s][ApplyingToJaneStreetInternshipURL]_
 
 [Jane Street][JaneStreetWebsiteURL], the technically innovative trading firm in NYC, posted a software engineering
