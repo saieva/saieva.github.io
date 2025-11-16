@@ -8,13 +8,13 @@ permalink: /2025ChristmasWishlist.html
 
 #### &#x1f384; &#127877; &#x1f384;
 
-**JBL Flip 6 - Portable Bluetooth Speaker**
+**JBL Flip 6 - Portable Bluetooth Speaker**\
     - Choose "Blue" color
     - https://www.amazon.com/dp/B09GJZKQ3K/
 
 **The Original StudBuddy® Magnetic Stud Finder**
-- Choose "2-pack" option
-- https://www.amazon.com/dp/B014VJ0ELA/
+    - Choose "2-pack" option
+    - https://www.amazon.com/dp/B014VJ0ELA/
 
 **Trail Loop Band for Apple Watch Ultra/3/2 Bands**
 - Choose "06-Beige Orange/Titanium" color
