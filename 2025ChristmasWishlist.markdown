@@ -6,7 +6,9 @@ categories: Christmas
 permalink: /2025ChristmasWishlist.html
 ---
 
-**JBL Flip 6 - Portable Bluetooth Speaker**
+#### &#x1f384; &#127877; &#x1f384;
+
+**JBL Flip 6 - Portable Bluetooth Speaker**\
 - Choose "Blue" color
 - https://www.amazon.com/dp/B09GJZKQ3K/
 
