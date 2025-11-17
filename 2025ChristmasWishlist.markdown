@@ -8,9 +8,36 @@ permalink: /2025ChristmasWishlist.html
 
 # &#x1f384; &#127877; &#x1f384;
 
+### Worx WX066 Sidekick Folding Work Table
+- Choose the "Sidekick Work Table" option ($59.00)
+- https://www.amazon.com/dp/B072X4T8BF/
+
+---
+<br/>
+
+### amaran Verge Bi-Color Edge-lit Rectangular Panel
+- Choose "Charcoal" color
+- https://www.amazon.com/dp/B0F1MSB1GY/
+
+---
+<br/>
+
 ### JBL Flip 6 - Portable Bluetooth Speaker
 - Choose "Blue" color
 - https://www.amazon.com/dp/B09GJZKQ3K/
+
+---
+<br/>
+
+### Bosch CC2430 Clic-Change 1/4 in. Self-Centering Drill Bit Assortment (3-Piece)
+- https://www.amazon.com/Bosch-Clic-Change-Self-Centering-Assortment-CC2430/dp/B0000TZX1M/
+
+---
+<br/>
+
+### INTOO Hex Shank Forstner Bit Set 16 pcs Multi Sided Shank Wood Drill bit Set
+- Choose "16 PCS" option
+- https://www.amazon.com/INTOO-Forstner-8pcs-Wood-Drill/dp/B0894RWLGK/
 
 ---
 <br/>
@@ -29,6 +56,13 @@ permalink: /2025ChristmasWishlist.html
 ---
 <br/>
 
+### YETI Camino 35 Carryall
+- Choose "Navy" color
+- https://www.amazon.com/dp/B098Z56FPM/
+
+---
+<br/>
+
 ### YETI Sidekick Dry Waterproof Gear Case and Bag Accessory
 - Choose "Sidekick 1l" size
 - Choose "Navy" color
@@ -41,34 +75,6 @@ permalink: /2025ChristmasWishlist.html
 - Choose "Grey" color (which looks beige in the picture)
 - Choose "13" for size
 - https://www.amazon.com/dp/B0CPPCYBG1/
-
----
-<br/>
-
-### amaran Verge Bi-Color Edge-lit Rectangular Panel
-- Choose "Charcoal" color
-- https://www.amazon.com/dp/B0F1MSB1GY/
-
----
-<br/>
-
-### Worx WX066 Sidekick Folding Work Table
-- Choose the "Sidekick Work Table" option ($59.00)
-- https://www.amazon.com/dp/B072X4T8BF/
-
----
-<br/>
-
-### INTOO Hex Shank Forstner Bit Set 16 pcs Multi Sided Shank Wood Drill bit Set
-- Choose "16 PCS" option
-- https://www.amazon.com/INTOO-Forstner-8pcs-Wood-Drill/dp/B0894RWLGK/
-
----
-<br/>
-
-### YETI Camino 35 Carryall
-- Choose "Navy" color
-- https://www.amazon.com/dp/B098Z56FPM/
 
 ---
 <br/>
