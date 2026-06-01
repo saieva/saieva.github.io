@@ -67,6 +67,6 @@ permalink: /PatTheCatProfitoFanPage.html
 ### **Doo Wopp out-bursts always a possibility with actor John Goodman**
 - https://poprockdoowopp.com/articles-and-interviews/doo-wopp-john-goodman/
 
-### Find many of the videos here in this YouTube Playlist:
+### Find many of the videos posted here in this YouTube Playlist:
 
 - https://youtube.com/playlist?list=PLYVGsROnNaAmiCCZ63ntAIRnWGxscrZCt
