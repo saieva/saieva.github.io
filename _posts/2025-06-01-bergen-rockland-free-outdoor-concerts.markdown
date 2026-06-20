@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "2025 Bergen NJ and Rockland NY Free Outdoor Summer Concerts Near You"
+published: false
 tagline: Free Summer Music, Movies, and Concerts In A Park Near You
 description: Schedules and locations of free music, movies, and Summer concerts in a park near you in NJ and NY.
 date:   2025-06-01 06:00:01 -0400
